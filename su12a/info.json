@@ -1,0 +1,14 @@
+{
+    "abstract": "Assessing treatment effects in observational studies is a multifaceted problem that not only involves heterogeneous mechanisms of how the treatment or cause is exposed to subjects, known as propensity, but also differential causal effects across sub-populations. We introduce a concept termed the facilitating score to account for both the confounding and interacting impacts of covariates on the treatment effect. Several approaches for estimating the facilitating score are discussed. In particular, we put forward a machine learning method, called causal inference tree (CIT), to provide a piecewise constant approximation of the facilitating score. With interpretable rules, CIT splits data  in such a way that both the propensity and the treatment effect become more homogeneous within each resultant partition. Causal inference at different levels can be made on the basis of CIT.  Together with an aggregated grouping procedure, CIT stratifies data into strata where causal effects can be conveniently assessed within each. Besides, a feasible way of predicting individual causal effects (ICE) is made available by aggregating ensemble CIT models. Both the stratified results and the estimated ICE provide an assessment of heterogeneity of causal effects and can be integrated for estimating the average causal effect (ACE). Mean square consistency of CIT is also established. We evaluate the performance of proposed methods with simulations and illustrate their use with the NSW data in Dehejia and Wahba (1999) where the objective is to assess the impact of a labor training program, the National Supported Work (NSW) demonstration, on post-intervention earnings.",
+    "authors": [
+        "Xiaogang Su",
+        "Joseph Kang",
+        "Juanjuan Fan",
+        "Richard A. Levine",
+        "Xin Yan"
+    ],
+    "id": "su12a",
+    "title": "Facilitating Score and Causal Inference Trees for Large Observational Studies",
+    "volume": "13",
+    "year": "2012"
+}

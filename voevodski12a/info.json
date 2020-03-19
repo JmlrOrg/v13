@@ -1,0 +1,14 @@
+{
+    "abstract": "Given a point set <i>S</i> and an unknown metric <i>d</i> on <i>S</i>, we study the problem of efficiently partitioning <i>S</i> into <i>k</i> clusters while querying few distances between the points.  In our model we assume that we have access to <i>one versus all</i> queries that given a point <i>s &#8712; S</i> return the distances between <i>s</i> and all other points.  We show that given a natural assumption about the structure of the instance, we can efficiently find an accurate clustering using only <i>O(k)</i> distance queries.   Our algorithm uses an <i>active</i> selection strategy to choose a small set of points that we call landmarks, and considers only the distances between landmarks and other points to produce a clustering.  We use our procedure to cluster proteins by sequence similarity.  This setting nicely fits our model because we can use a fast sequence database search program to query a sequence against an entire data set.  We conduct an empirical study that shows that even though we query a small fraction of the distances between the points, we produce clusterings that are close to a desired clustering given by manual classification.",
+    "authors": [
+        "Konstantin Voevodski",
+        "Maria-Florina Balcan",
+        "Heiko R&#246;glin",
+        "Shang-Hua Teng",
+        "Yu Xia"
+    ],
+    "id": "voevodski12a",
+    "title": "Active Clustering of Biological Sequences",
+    "volume": "13",
+    "year": "2012"
+}

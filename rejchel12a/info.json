@@ -1,0 +1,10 @@
+{
+    "abstract": "The problem of ranking is to predict or to guess the ordering between objects on the basis of their observed features. In this paper we consider ranking estimators that minimize the empirical convex risk. We prove generalization bounds for the excess risk of such estimators with rates that are faster than <i>1/&#8730;n.</i> We apply our results to commonly used ranking algorithms, for instance boosting or support vector machines. Moreover, we study the performance of considered estimators on real data sets.",
+    "authors": [
+        "Wojciech Rejchel"
+    ],
+    "id": "rejchel12a",
+    "title": "On Ranking and Generalization Bounds",
+    "volume": "13",
+    "year": "2012"
+}

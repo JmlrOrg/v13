@@ -1,0 +1,13 @@
+{
+    "abstract": "This paper discusses sign language recognition using linguistic sub-units.  It presents three types of sub-units for consideration; those learnt from appearance data as well as those inferred from both 2D or 3D tracking data.  These sub-units are then combined using a sign level classifier; here, two options are presented.  The first uses Markov Models to encode the temporal changes between sub-units.  The second makes use of Sequential Pattern Boosting to apply discriminative feature selection at the same time as encoding temporal information.  This approach is more robust to noise and performs well in signer independent tests, improving results from the 54% achieved by the Markov Chains to 76%.",
+    "authors": [
+        "Helen Cooper",
+        "Eng-Jon Ong",
+        "Nicolas Pugeault",
+        "Richard Bowden"
+    ],
+    "id": "cooper12a",
+    "title": "Sign Language Recognition using Sub-Units",
+    "volume": "13",
+    "year": "2012"
+}

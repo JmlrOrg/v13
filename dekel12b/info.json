@@ -1,0 +1,12 @@
+{
+    "abstract": "We present a new online learning algorithm in the selective sampling framework, where labels must be actively queried before they are revealed. We prove bounds on the regret of our algorithm and on the number of labels it queries when faced with an adaptive adversarial strategy of generating the instances. Our bounds both generalize and strictly improve over previous bounds in similar settings. Additionally, our selective sampling algorithm can be converted into an efficient statistical active learning algorithm. We extend our algorithm and analysis to the multiple-teacher setting, where the algorithm can choose which subset of teachers to query for each label. Finally, we demonstrate the effectiveness of our techniques on a real-world Internet search problem.",
+    "authors": [
+        "Ofer Dekel",
+        "Claudio Gentile",
+        "Karthik Sridharan"
+    ],
+    "id": "dekel12b",
+    "title": "Selective Sampling and Active Learning from Single and Multiple Teachers",
+    "volume": "13",
+    "year": "2012"
+}

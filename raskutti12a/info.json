@@ -1,0 +1,12 @@
+{
+    "abstract": "Sparse additive models are families of <i>d</i>-variate functions with the additive decomposition <i>f<sup>*</sup> = &#8721;<sub>j &#8712; S</sub> f<sup>*</sup><sub>j</sub></i>, where <i>S</i> is an unknown subset of cardinality <i>s << d</i>. In this paper, we consider the case where each univariate component function <i>f<sup>*</sup><sub>j</sub></i> lies in a reproducing kernel Hilbert space (RKHS), and analyze a method for estimating the unknown function <i>f<sup>*</sup></i> based on kernels combined with <i><i>l</i><sub>1</sub></i>-type convex regularization.  Working within a high-dimensional framework that allows both the dimension <i>d</i> and sparsity <i>s</i> to increase with <i>n</i>, we derive convergence rates in the <i>L<sup>2</sup>(P)</i> and <i>L<sup>2</sup>(P<sub>n</sub>)</i> norms over the class <i> F<sub>d,s,H</sub></i> of sparse additive models with each univariate function <i>f<sup>*</sup><sub>j</sub></i> in the unit ball of a univariate RKHS with bounded kernel function.  We complement our upper bounds by deriving minimax lower bounds on the <i>L<sup>2</sup>(P)</i> error, thereby showing the optimality of our method.  Thus, we obtain optimal minimax rates for many interesting classes of sparse additive models, including polynomials, splines, and Sobolev classes.  We also show that if, in contrast to our univariate conditions, the <i>d</i>-variate function class is assumed to be globally bounded, then much faster estimation rates are possible for any sparsity <i>s = &#937;(&#8730;n)</i>, showing that global boundedness is a significant restriction in the high-dimensional setting.",
+    "authors": [
+        "Garvesh Raskutti",
+        "Martin J. Wainwright",
+        "Bin Yu"
+    ],
+    "id": "raskutti12a",
+    "title": "Minimax-Optimal Rates For Sparse Additive Models Over Kernel Classes Via Convex Programming",
+    "volume": "13",
+    "year": "2012"
+}

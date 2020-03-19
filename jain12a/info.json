@@ -1,0 +1,13 @@
+{
+    "abstract": "Metric and kernel learning arise in several machine learning applications.  However, most existing metric learning algorithms are limited to learning metrics over low-dimensional data, while existing kernel learning algorithms are often limited to the transductive setting and do not generalize to new data points.  In this paper, we study the connections between metric learning and kernel learning that arise when studying metric learning as a linear transformation learning problem.  In particular, we propose a general optimization framework for learning metrics via linear transformations, and analyze in detail a special case of our framework---that of minimizing the LogDet divergence subject to linear constraints. We then propose a general regularized framework for learning a kernel matrix, and show it to be <i>equivalent</i> to our metric learning framework.  Our theoretical connections between metric and kernel learning have two main consequences: 1) the learned kernel matrix parameterizes a linear transformation kernel <i>function</i> and can be applied inductively to new data points, 2) our result yields a constructive method for kernelizing most existing Mahalanobis metric learning formulations.  We demonstrate our learning approach by applying it to large-scale real world problems in computer vision, text mining and semi-supervised kernel dimensionality reduction.",
+    "authors": [
+        "Prateek Jain",
+        "Brian Kulis",
+        "Jason V. Davis",
+        "Inderjit S. Dhillon"
+    ],
+    "id": "jain12a",
+    "title": "Metric and Kernel Learning Using a Linear Transformation",
+    "volume": "13",
+    "year": "2012"
+}

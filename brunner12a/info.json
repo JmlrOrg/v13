@@ -1,0 +1,13 @@
+{
+    "abstract": "Pairwise classification is the task to predict whether the examples <i>a,b</i> of a pair <i>(a,b)</i> belong to the same class or to different classes. In particular, interclass generalization problems can be treated in this way.  In pairwise classification, the order of the two input examples should not affect the classification result. To achieve this, particular kernels as well as the use of symmetric training sets in the framework of support vector machines were suggested. The paper discusses both approaches in a general way and establishes a strong connection between them. In addition, an efficient implementation is discussed which allows the training of several millions of pairs. The value of these contributions is confirmed by excellent results on the labeled faces in the wild benchmark.",
+    "authors": [
+        "Carl Brunner",
+        "Andreas Fischer",
+        "Klaus Luig",
+        "Thorsten Thies"
+    ],
+    "id": "brunner12a",
+    "title": "Pairwise Support Vector Machines and their Application to Large Scale Problems",
+    "volume": "13",
+    "year": "2012"
+}

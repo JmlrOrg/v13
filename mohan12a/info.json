@@ -1,0 +1,11 @@
+{
+    "abstract": "The problem of minimizing the rank of a matrix subject to affine constraints has applications in several areas including machine learning, and is known to be NP-hard. A tractable relaxation for this problem is nuclear norm (or trace norm) minimization, which is guaranteed to find the minimum rank matrix under suitable assumptions.  In this paper, we propose a family of Iterative Reweighted Least Squares algorithms IRLS-<i>p</i> (with <i>0 &#8804; p &#8804; 1</i>), as a computationally efficient way to improve over the performance of nuclear norm minimization. The algorithms can be viewed as (locally) minimizing certain smooth approximations to the rank function. When <i>p=1</i>, we give theoretical guarantees similar to those for nuclear norm minimization, that is, recovery of low-rank matrices under certain assumptions on the operator defining the constraints. For <i>p < 1</i>, IRLS-<i>p</i> shows better empirical performance in terms of recovering low-rank matrices than nuclear norm minimization.  We provide an efficient implementation for IRLS-<i>p</i>, and also present a related family of algorithms, sIRLS-<i>p</i>. These algorithms exhibit competitive run times and improved recovery when compared to existing algorithms for random instances of the matrix completion problem, as well as on the MovieLens movie recommendation data set.",
+    "authors": [
+        "Karthik Mohan",
+        "Maryam Fazel"
+    ],
+    "id": "mohan12a",
+    "title": "Iterative Reweighted Algorithms for Matrix Rank Minimization",
+    "volume": "13",
+    "year": "2012"
+}

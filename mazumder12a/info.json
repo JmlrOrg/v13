@@ -1,0 +1,11 @@
+{
+    "abstract": "We consider the sparse inverse covariance regularization problem or <i>graphical lasso</i> with regularization  parameter <i>&#955;</i>.  Suppose the sample <i>covariance graph</i> formed by thresholding the entries of the sample covariance matrix at <i>&#955;</i> is decomposed into connected components.  We show that the <i>vertex-partition</i> induced by the connected components of the thresholded sample covariance graph (at <i>&#955;</i>) is <i>exactly</i> equal to that induced by the connected components of the estimated concentration graph, obtained by solving the graphical lasso problem for the <i>same</i> <i>&#955;</i>.  This characterizes a very interesting property of a path of graphical lasso solutions.  Furthermore, this simple rule, when used as a wrapper around existing algorithms for the graphical lasso, leads to enormous performance gains. For a range of values of <i>&#955;</i>, our proposal splits a large graphical lasso problem into smaller tractable problems, making it possible to solve an otherwise infeasible large-scale problem. We illustrate the graceful scalability of our proposal via synthetic and real-life microarray examples.",
+    "authors": [
+        "Rahul Mazumder",
+        "Trevor Hastie"
+    ],
+    "id": "mazumder12a",
+    "title": "Exact Covariance Thresholding into Connected Components for Large-Scale Graphical Lasso",
+    "volume": "13",
+    "year": "2012"
+}

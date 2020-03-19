@@ -1,0 +1,11 @@
+{
+    "abstract": "The Sample Compression Conjecture of Littlestone & Warmuth has remained unsolved for a quarter century. While maximum classes (concept classes meeting Sauer's Lemma with equality) can be compressed, the compression of general concept classes reduces to compressing maximal classes (classes that cannot be expanded without increasing VC dimension). Two promising ways forward are: embedding maximal classes into maximum classes with at most a polynomial increase to VC dimension, and compression via operating on geometric representations. This paper presents positive results on the latter approach and a first negative result on the former, through a systematic investigation of finite maximum classes.  Simple arrangements of hyperplanes in hyperbolic space are shown to represent maximum classes, generalizing the corresponding Euclidean result.  We show that sweeping a generic hyperplane across such arrangements forms an unlabeled compression scheme of size VC dimension and corresponds to a special case of peeling the one-inclusion graph, resolving a recent conjecture of Kuzmin & Warmuth. A bijection between finite maximum classes and certain arrangements of piecewise-linear (PL) hyperplanes in either a ball or Euclidean space is established.  Finally we show that <i>d</i>-maximum classes corresponding to PL-hyperplane arrangements in <i>&#8477;<sup>d</sup></i> have cubical complexes homeomorphic to a <i>d</i>-ball, or equivalently complexes that are manifolds with boundary.  A main result is that PL arrangements can be swept by a moving hyperplane to unlabeled <i>d</i>-compress <i>any</i> finite maximum class, forming a peeling scheme as conjectured by Kuzmin & Warmuth. A corollary is that some <i>d</i>-maximal classes cannot be embedded into any maximum class of VC-dimension <i>d+k</i>, for any constant <i>k</i>. The construction of the PL sweeping involves Pachner moves on the one-inclusion graph, corresponding to moves of a hyperplane across the intersection of <i>d</i> other hyperplanes. This extends the well known Pachner moves for triangulations to cubical complexes.",
+    "authors": [
+        "Benjamin I.P. Rubinstein",
+        "J. Hyam Rubinstein"
+    ],
+    "id": "rubinstein12a",
+    "title": "A Geometric Approach to Sample Compression",
+    "volume": "13",
+    "year": "2012"
+}

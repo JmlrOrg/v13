@@ -1,0 +1,13 @@
+{
+    "abstract": "Sparsity-inducing multiple kernel Fisher discriminant analysis (MK-FDA) has been studied in the literature. Building on recent advances in non-sparse multiple kernel learning (MKL), we propose a non-sparse version of MK-FDA, which imposes a general <i><i>l</i><sub>p</sub></i> norm regularisation on the kernel weights. We formulate the associated optimisation problem as a semi-infinite program (SIP), and adapt an iterative wrapper algorithm to solve it. We then discuss, in light of latest advances in MKL optimisation techniques, several reformulations and optimisation strategies that can potentially lead to significant improvements in the efficiency and scalability of MK-FDA. We carry out extensive experiments on six datasets from various application areas, and compare closely the performance of <i><i>l</i><sub>p</sub></i> MK-FDA, fixed norm MK-FDA, and several variants of SVM-based MKL (MK-SVM). Our results demonstrate that <i><i>l</i><sub>p</sub></i> MK-FDA improves upon sparse MK-FDA in many practical situations. The results also show that on image categorisation problems, <i><i>l</i><sub>p</sub></i> MK-FDA tends to outperform its SVM counterpart. Finally, we also discuss the connection between (MK-)FDA and (MK-)SVM, under the unified framework of regularised kernel machines.",
+    "authors": [
+        "Fei Yan",
+        "Josef Kittler",
+        "Krystian Mikolajczyk",
+        "Atif Tahir"
+    ],
+    "id": "yan12a",
+    "title": "Non-Sparse Multiple Kernel Fisher Discriminant Analysis",
+    "volume": "13",
+    "year": "2012"
+}

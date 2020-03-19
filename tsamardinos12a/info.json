@@ -1,0 +1,12 @@
+{
+    "abstract": "We present methods able to predict the presence and strength of conditional and unconditional dependencies (correlations) between two variables <i>Y</i> and <i>Z</i> <i>never jointly measured</i> on the same samples, based on multiple data sets measuring a set of common variables. The algorithms are specializations of prior work on learning causal structures from overlapping variable sets.  This problem has also been addressed in the field of <i>statistical matching</i>. The proposed methods are applied to a wide range of domains and are shown to accurately predict the presence of thousands of dependencies. Compared against prototypical statistical matching algorithms and within the scope of our experiments, the proposed algorithms make predictions that are better correlated with the sample estimates of the unknown parameters on test data ; this is particularly the case when the number of commonly measured variables is low.  <br> The enabling idea behind the methods is to induce one or all <i>causal</i> models that are simultaneously consistent with (fit) all available data sets and prior knowledge and reason with them. This allows constraints stemming from causal assumptions (e.g., Causal Markov Condition, Faithfulness) to propagate. Several methods have been developed based on this idea, for which we propose the unifying name Integrative Causal Analysis (INCA). A contrived example is presented demonstrating the theoretical potential to develop more general methods for co-analyzing heterogeneous data sets. The computational experiments with the novel methods provide evidence that causally-inspired assumptions such as Faithfulness often hold to a good degree of approximation in many real systems and could be exploited for statistical inference. Code, scripts, and data are available at www.mensxmachina.org.",
+    "authors": [
+        "Ioannis Tsamardinos",
+        "Sofia Triantafillou",
+        "Vincenzo Lagani"
+    ],
+    "id": "tsamardinos12a",
+    "title": "Towards Integrative Causal Analysis of Heterogeneous Data Sets and Studies",
+    "volume": "13",
+    "year": "2012"
+}

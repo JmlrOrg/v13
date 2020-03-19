@@ -1,0 +1,11 @@
+{
+    "abstract": "The <i><i>l</i><sub>1</sub></i>-penalized method, or the Lasso, has emerged as an important tool for the analysis of large data sets.  Many important results have been obtained for the Lasso in linear regression which have led to a deeper understanding of high-dimensional statistical problems. In this article, we consider a class of weighted <i><i>l</i><sub>1</sub></i>-penalized estimators for convex loss functions of a general form, including the generalized linear models. We study  the estimation, prediction, selection and sparsity  properties of the weighted <i><i>l</i><sub>1</sub></i>-penalized estimator in sparse, high-dimensional settings where the number of predictors <i>p</i> can be much larger than the sample size <i>n</i>. Adaptive Lasso is considered as a special case.  A multistage method is developed to approximate concave regularized estimation by applying an adaptive Lasso recursively.  We provide prediction and estimation oracle inequalities for single- and multi-stage estimators, a general selection consistency theorem, and an upper bound for the dimension of the Lasso estimator. Important models including the linear regression, logistic regression and log-linear models are used throughout to illustrate the applications of the general results.",
+    "authors": [
+        "Jian Huang",
+        "Cun-Hui Zhang"
+    ],
+    "id": "huang12b",
+    "title": "Estimation and Selection via Absolute Penalized Convex Minimization And Its Multistage Adaptive Applications",
+    "volume": "13",
+    "year": "2012"
+}

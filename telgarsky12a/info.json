@@ -1,0 +1,10 @@
+{
+    "abstract": "Boosting combines weak learners into a predictor with low empirical risk.  Its dual constructs a high entropy distribution upon which weak learners and training labels are uncorrelated.  This manuscript studies this primal-dual relationship under a broad family of losses, including the exponential loss of AdaBoost and the logistic loss, revealing: <br> &#8226; Weak learnability aids the whole loss family: for any <i>&#949; > 0</i>, <i>O(ln(1/&#949;))</i> iterations suffice to produce a predictor with empirical risk <i>&#949;</i>-close to the infimum; <br> &#8226; The circumstances granting the existence of an empirical risk minimizer may be characterized in terms of the primal and dual problems, yielding a new proof of the known rate <i>O(ln(1/&#949;))</i>; <br> &#8226; Arbitrary instances may be decomposed into the above two, granting rate <i>O(1/&#949;)</i>, with a matching lower bound provided for the logistic loss.",
+    "authors": [
+        "Matus Telgarsky"
+    ],
+    "id": "telgarsky12a",
+    "title": "A Primal-Dual Convergence Analysis of Boosting",
+    "volume": "13",
+    "year": "2012"
+}

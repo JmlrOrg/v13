@@ -1,0 +1,11 @@
+{
+    "abstract": "We investigate a method for regression that makes use of a randomly generated subspace <i>G<sub>P</sub>&#8834;F</i> (of finite dimension <i>P</i>) of a given large (possibly infinite) dimensional function space <i>F</i>, for example, <i>L<sub>2</sub>([0,1]<sup>d</sup>;&#8476;)</i>.  <i>G<sub>P</sub></i> is defined as the span of <i>P</i> random features  that are linear combinations of a basis functions of <i>F</i> weighted by random Gaussian i.i.d. coefficients.  We show practical motivation for the use of this approach, detail the link that this random projections method share with RKHS and Gaussian objects theory and prove, both in deterministic and random design, approximation error bounds when searching for the best regression function in <i>G<sub>P</sub></i> rather than in <i>F</i>, and derive excess risk bounds for a specific regression algorithm (least squares regression in <i>G<sub>P</sub></i>). This paper stresses the motivation to study such methods, thus the analysis developed is kept simple for explanations purpose and leaves room for future developments.",
+    "authors": [
+        "Odalric-Ambrym Maillard",
+        "R&#233;mi Munos"
+    ],
+    "id": "maillard12a",
+    "title": "Linear Regression With Random Projections",
+    "volume": "13",
+    "year": "2012"
+}

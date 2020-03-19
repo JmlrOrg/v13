@@ -1,0 +1,11 @@
+{
+    "abstract": "A hybrid dynamical system is a mathematical model suitable for describing an extensive spectrum of multi-modal, time-series behaviors, ranging from bouncing balls to air traffic controllers. This paper describes multi-modal symbolic regression (MMSR): a learning algorithm to construct non-linear symbolic representations of discrete dynamical systems with continuous mappings from unlabeled, time-series data. MMSR consists of two subalgorithms---clustered symbolic regression, a method to simultaneously identify distinct behaviors while formulating their mathematical expressions, and transition modeling, an algorithm to infer symbolic inequalities that describe binary classification boundaries. These subalgorithms are combined to infer hybrid dynamical systems as a collection of apt, mathematical expressions. MMSR is evaluated on a collection of four synthetic data sets and outperforms other multi-modal machine learning approaches in both accuracy and interpretability, even in the presence of noise. Furthermore, the versatility of MMSR is demonstrated by identifying and inferring classical expressions of transistor modes from recorded measurements.",
+    "authors": [
+        "Daniel L. Ly",
+        "Hod Lipson"
+    ],
+    "id": "ly12a",
+    "title": "Learning Symbolic Representations of Hybrid Dynamical Systems",
+    "volume": "13",
+    "year": "2012"
+}

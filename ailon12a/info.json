@@ -1,0 +1,10 @@
+{
+    "abstract": "Given a set <i>V</i> of  <i>n</i> elements we wish to linearly order them given pairwise preference labels which may be non-transitive (due to irrationality or arbitrary noise).  <br> The goal is to linearly order the elements while disagreeing with as few pairwise preference labels as possible.  Our performance is measured by two parameters:  The number of disagreements (loss) and the query complexity (number of pairwise preference labels).  Our algorithm adaptively queries  at most <i>O(&#949;<sup>-6</sup>n log<sup>5</sup> n)</i> preference labels for a regret of <i>&#949;</i> times the optimal loss.  As a function of <i>n</i>, this is asymptotically better than standard (non-adaptive) learning bounds achievable for the same problem.  <br> Our main result takes us a step closer toward settling an open problem posed by learning-to-rank (from pairwise information) theoreticians and practitioners: What is a provably correct way to sample preference labels?  To further  show the power and practicality of our solution, we analyze a typical test case in which a large margin linear relaxation is used for efficiently solving the simpler learning problems in our decomposition.",
+    "authors": [
+        "Nir Ailon"
+    ],
+    "id": "ailon12a",
+    "title": "An Active Learning Algorithm for Ranking from Pairwise Preferences with an Almost Optimal Query Complexity",
+    "volume": "13",
+    "year": "2012"
+}

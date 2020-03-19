@@ -1,0 +1,11 @@
+{
+    "abstract": "We discover a strong relation between two known learning models: stream-based active learning and perfect selective classification (an extreme case of 'classification with a reject option').  For these models, restricted to the realizable case, we show a reduction of active learning to selective classification that preserves fast rates.  Applying this reduction to recent results for selective classification, we derive exponential target-independent label complexity speedup for actively learning general (non-homogeneous) linear classifiers when the data distribution is an arbitrary high dimensional mixture of Gaussians. Finally, we study the relation between the proposed technique and existing label complexity measures, including teaching dimension and disagreement coefficient.",
+    "authors": [
+        "Ran El-Yaniv",
+        "Yair Wiener"
+    ],
+    "id": "el-yaniv12a",
+    "title": "Active Learning via Perfect Selective Classification",
+    "volume": "13",
+    "year": "2012"
+}

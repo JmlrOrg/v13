@@ -1,0 +1,13 @@
+{
+    "abstract": "We present a probabilistic framework to automatically learn models of recurring signs from multiple sign language video sequences containing the vocabulary of interest. We extract the parts of the signs that are present in most occurrences of the sign in context and are robust to the variations produced by adjacent signs. Each sentence video is first transformed into a multidimensional time series representation, capturing the motion and shape aspects of the sign. Skin color blobs are extracted from frames of color video sequences, and a probabilistic relational distribution is formed for each frame using the contour and edge pixels from the skin blobs. Each sentence is represented as a trajectory in a low dimensional space called the space of relational distributions. Given these time series trajectories, we extract signemes from multiple sentences concurrently using iterated conditional modes (ICM). We show results by learning single signs from a collection of sentences with one common pervading sign, multiple signs from a collection of sentences with more than one common sign, and single signs from a mixed collection of sentences. The extracted signemes demonstrate that our approach is robust to some extent to the variations produced within a sign due to different contexts. We also show results whereby these learned sign models are used for spotting signs in test sequences.",
+    "authors": [
+        "Sunita Nayak",
+        "Kester Duncan",
+        "Sudeep Sarkar",
+        "Barbara Loeding"
+    ],
+    "id": "nayak12a",
+    "title": "Finding Recurrent Patterns from Continuous Sign Language Sentences for Automated Extraction of Signs",
+    "volume": "13",
+    "year": "2012"
+}

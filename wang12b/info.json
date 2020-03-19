@@ -1,0 +1,12 @@
+{
+    "abstract": "Online algorithms that process one example at a time are advantageous when dealing with very large data or with data streams. Stochastic Gradient Descent (SGD) is such an algorithm and it is an attractive choice for online Support Vector Machine (SVM) training due to its simplicity and effectiveness. When equipped with kernel functions, similarly to other SVM learning algorithms, SGD is susceptible to the curse of kernelization that causes unbounded linear growth in model size and update time with data size. This may render SGD inapplicable to large data sets. We address this issue by presenting a class of Budgeted SGD (BSGD) algorithms for large-scale kernel SVM training which have constant space and constant time complexity per update. Specifically, BSGD keeps the number of support vectors bounded during training through several budget maintenance strategies. We treat the budget maintenance as a source of the gradient error, and show that the gap between the BSGD and the optimal SVM solutions depends on the model degradation due to budget maintenance. To minimize the gap, we study greedy budget maintenance methods based on removal, projection, and merging of support vectors. We propose budgeted versions of several popular online SVM algorithms that belong to the SGD family. We further derive BSGD algorithms for multi-class SVM training. Comprehensive empirical results show that BSGD achieves higher accuracy than the state-of-the-art budgeted online algorithms and comparable to non-budget algorithms, while achieving impressive computational efficiency both in time and space during training and prediction.",
+    "authors": [
+        "Zhuang Wang",
+        "Koby Crammer",
+        "Slobodan Vucetic"
+    ],
+    "id": "wang12b",
+    "title": "Breaking the Curse of Kernelization: Budgeted Stochastic Gradient Descent for Large-Scale SVM Training",
+    "volume": "13",
+    "year": "2012"
+}

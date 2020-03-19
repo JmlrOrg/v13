@@ -1,0 +1,13 @@
+{
+    "abstract": "The lasso is an important method for sparse, high-dimensional regression problems, with efficient algorithms available, a long history of practical success, and a large body of theoretical results supporting and explaining its performance.  But even with the best available algorithms, finding the lasso solutions remains a computationally challenging task in cases where the number of covariates vastly exceeds the number of data points.  <br> Marginal regression, where each dependent variable is regressed separately on each covariate, offers a promising alternative in this case because the estimates can be computed roughly two orders faster than the lasso solutions.  The question that remains is how the statistical performance of the method compares to that of the lasso in these cases.  <br> In this paper, we study the relative statistical performance of the lasso and marginal regression for sparse, high-dimensional regression problems.  We consider the problem of learning which coefficients are non-zero.  Our main results are as follows: (i) we compare the conditions under which the lasso and marginal regression guarantee exact recovery in the fixed design, noise free case; (ii) we establish conditions under which marginal regression provides exact recovery with high probability in the fixed design, noise free, random coefficients case; and (iii) we derive rates of convergence for both procedures, where performance is measured by the number of coefficients with incorrect sign, and characterize the regions in the parameter space recovery is and is not possible under this metric.  <br> In light of the computational advantages of marginal regression in very high dimensional problems, our theoretical and simulations results suggest that the procedure merits further study.",
+    "authors": [
+        "Christopher R. Genovese",
+        "Jiashun Jin",
+        "Larry Wasserman",
+        "Zhigang Yao"
+    ],
+    "id": "genovese12b",
+    "title": "A Comparison of the Lasso and  Marginal Regression",
+    "volume": "13",
+    "year": "2012"
+}

@@ -1,0 +1,13 @@
+{
+    "abstract": "The <i>statistical leverage scores</i> of a matrix <i>A</i> are the squared row-norms of the matrix containing its (top) left singular vectors and the <i>coherence</i> is the largest leverage score.  These quantities are of interest in recently-popular problems such as matrix completion and Nystr&#246;m-based low-rank matrix approximation as well as in large-scale statistical data analysis applications more generally; moreover, they are of interest since they define the key structural nonuniformity that must be dealt with in developing fast randomized matrix algorithms.  Our main result is a randomized algorithm that takes as input an arbitrary <i>n &#215; d</i> matrix <i>A</i>, with <i>n &#62;&#62; d</i>, and that returns as output relative-error approximations to <i>all</i> <i>n</i> of the statistical leverage scores. The proposed algorithm runs (under assumptions on the precise values of <i>n</i> and <i>d</i>) in <i>O(n d log n)</i>  time, as opposed to the <i>O(nd<sup>2</sup>)</i> time required by the na&#239;ve algorithm that involves computing an orthogonal basis for the range of <i>A</i>. Our analysis may be viewed in terms of computing a relative-error approximation to an <i>under</i>constrained least-squares approximation problem, or, relatedly, it may be viewed as an application of Johnson-Lindenstrauss type ideas. Several practically-important extensions of our basic result are also described, including the approximation of so-called cross-leverage scores, the extension of these ideas to matrices with <i>n &#8776; d</i>, and the extension to streaming environments.",
+    "authors": [
+        "Petros Drineas",
+        "Malik Magdon-Ismail",
+        "Michael W. Mahoney",
+        "David P. Woodruff"
+    ],
+    "id": "drineas12a",
+    "title": "Fast Approximation of Matrix Coherence and Statistical Leverage",
+    "volume": "13",
+    "year": "2012"
+}

@@ -1,0 +1,12 @@
+{
+    "abstract": "We present a general and detailed development of an algorithm for finite-horizon fitted-Q iteration with an arbitrary number of reward signals and linear value function approximation using an arbitrary number of state features. This includes a detailed treatment of the 3-reward function case using triangulation primitives from computational geometry and a method for identifying globally dominated actions.  We also present an example of how our methods can be used to construct a real-world decision aid by considering symptom reduction, weight gain, and quality of life in sequential treatments for schizophrenia. Finally, we discuss future directions in which to take this work that will further enable our methods to make a positive impact on the field of evidence-based clinical decision support.",
+    "authors": [
+        "Daniel J. Lizotte",
+        "Michael Bowling",
+        "Susan A. Murphy"
+    ],
+    "id": "lizotte12a",
+    "title": "Linear Fitted-Q Iteration with Multiple Reward Functions",
+    "volume": "13",
+    "year": "2012"
+}

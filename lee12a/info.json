@@ -1,0 +1,11 @@
+{
+    "abstract": "Iterative methods that calculate their steps from approximate subgradient directions have proved to be useful for stochastic learning problems over large and streaming data sets. When the objective consists of a loss function plus a nonsmooth regularization term, the solution often lies on a low-dimensional manifold of parameter space along which the regularizer is smooth. (When an <i><i>l</i><sub>1</sub></i> regularizer is used to induce sparsity in the solution, for example, this manifold is defined by the set of nonzero components of the parameter vector.)  This paper shows that a regularized dual averaging algorithm can identify this manifold, with high probability, before reaching the solution. This observation motivates an algorithmic strategy in which, once an iterate is suspected of lying on an optimal or near-optimal manifold, we switch to a \"local phase\" that searches in this manifold, thus converging rapidly to a near-optimal point. Computational results are presented to verify the identification property and to illustrate the effectiveness of this approach.",
+    "authors": [
+        "Sangkyun Lee",
+        "Stephen J. Wright"
+    ],
+    "id": "lee12a",
+    "title": "Manifold Identification in Dual Averaging for Regularized Stochastic Online Learning",
+    "volume": "13",
+    "year": "2012"
+}

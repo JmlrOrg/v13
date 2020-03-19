@@ -1,0 +1,12 @@
+{
+    "abstract": "In reinforcement learning an agent uses online feedback from the environment in order to adaptively select an effective policy.  Model free approaches address this task by directly mapping environmental states to actions, while model based methods attempt to construct a model of the environment, followed by a selection of optimal actions based on that model. Given the complementary advantages of both approaches, we suggest a novel procedure which augments a model free algorithm with a partial model. The resulting <i>hybrid</i> algorithm switches between a model based and a model free mode, depending on the current state and the agent's knowledge. Our method relies on a novel definition for a partially known model, and an estimator that incorporates such knowledge in order to reduce uncertainty in stochastic approximation iterations. We prove that such an approach leads to improved policy evaluation whenever environmental knowledge is available, without compromising performance when such knowledge is absent. Numerical simulations demonstrate the effectiveness of the approach on policy gradient and Q-learning algorithms, and its usefulness in solving a call admission control problem.",
+    "authors": [
+        "Aviv Tamar",
+        "Dotan Di Castro",
+        "Ron Meir"
+    ],
+    "id": "tamar12a",
+    "title": "Integrating a Partial Model into Model Free Reinforcement Learning",
+    "volume": "13",
+    "year": "2012"
+}

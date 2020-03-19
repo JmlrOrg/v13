@@ -1,0 +1,12 @@
+{
+    "abstract": "Identifying cause-effect relationships between variables of interest is a central problem in science. Given a set of experiments we describe a procedure that identifies linear models that may contain cycles and latent variables. We provide a detailed description of the model family, full proofs of the necessary and sufficient conditions for identifiability, a search algorithm that is complete, and a discussion of what can be done when the identifiability conditions are not satisfied. The algorithm is comprehensively tested in simulations, comparing it to competing algorithms in the literature. Furthermore, we adapt the procedure to the problem of cellular network inference, applying it to the biologically realistic data of the DREAM challenges. The paper provides a full theoretical foundation for the causal discovery procedure first presented by Eberhardt et al. (2010) and Hyttinen et al. (2010).",
+    "authors": [
+        "Antti Hyttinen",
+        "Frederick Eberhardt",
+        "Patrik O. Hoyer"
+    ],
+    "id": "hyttinen12a",
+    "title": "Learning Linear Cyclic Causal Models with Latent Variables",
+    "volume": "13",
+    "year": "2012"
+}

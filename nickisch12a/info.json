@@ -1,0 +1,10 @@
+{
+    "abstract": "The glm-ie toolbox contains functionality for estimation and inference in generalised linear models over continuous-valued variables. Besides a variety of penalised least squares solvers for estimation, it offers inference based on (convex) variational bounds, on expectation propagation and on factorial mean field.  Scalable and efficient inference in fully-connected undirected graphical models or Markov random fields with Gaussian and non-Gaussian potentials is achieved by casting all the computations as matrix vector multiplications. We provide a wide choice of penalty functions for estimation, potential functions for inference and matrix classes with lazy evaluation for convenient modelling.  We designed the glm-ie package to be simple, generic and easily expansible. Most of the code is written in Matlab including some MEX files to be fully compatible to both Matlab 7.x and GNU Octave 3.3.x. Large scale probabilistic classification as well as sparse linear modelling can be performed in a common algorithmical framework by the glm-ie toolkit.",
+    "authors": [
+        "Hannes Nickisch"
+    ],
+    "id": "nickisch12a",
+    "title": "glm-ie: Generalised Linear Models Inference & Estimation Toolbox",
+    "volume": "13",
+    "year": "2012"
+}

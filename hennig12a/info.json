@@ -1,0 +1,11 @@
+{
+    "abstract": "Contemporary global optimization algorithms are based on local measures of utility, rather than a probability measure over location and value of the optimum. They thus attempt to collect low function values, not to learn about the optimum. The reason for the absence of probabilistic global optimizers is that the corresponding inference problem is intractable in several ways. This paper develops desiderata for probabilistic optimization algorithms, then presents a concrete algorithm which addresses each of the computational intractabilities with a sequence of approximations and explicitly addresses the decision problem of maximizing information gain from each evaluation.",
+    "authors": [
+        "Philipp Hennig",
+        "Christian J. Schuler"
+    ],
+    "id": "hennig12a",
+    "title": "Entropy Search for Information-Efficient Global Optimization",
+    "volume": "13",
+    "year": "2012"
+}

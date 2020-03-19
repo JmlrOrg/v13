@@ -1,0 +1,11 @@
+{
+    "abstract": "We propose a novel model for meta-generalisation, that is, performing prediction on novel tasks based on information from multiple different but related tasks. The model is based on two coupled Gaussian processes with structured covariance function; one model performs predictions by learning a constrained covariance function encapsulating the relations between the various training tasks, while the second model determines the similarity of new tasks to previously seen tasks. We demonstrate empirically on several real and synthetic data sets both the strengths of the approach and its limitations due to the distributional assumptions underpinning it.",
+    "authors": [
+        "Grigorios Skolidis",
+        "Guido Sanguinetti"
+    ],
+    "id": "skolidis12a",
+    "title": "A Case Study on Meta-Generalising: A Gaussian Processes Approach",
+    "volume": "13",
+    "year": "2012"
+}

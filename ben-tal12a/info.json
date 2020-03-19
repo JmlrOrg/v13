@@ -1,0 +1,13 @@
+{
+    "abstract": "In this paper we study the problem of designing SVM classifiers when the kernel matrix, <i><b>K</b></i>, is affected by uncertainty. Specifically <i><b>K</b></i> is modeled as a positive affine combination of given positive semi definite kernels, with the coefficients ranging in a norm-bounded uncertainty set. We treat the problem using the Robust Optimization methodology. This reduces the uncertain SVM problem into a deterministic conic quadratic problem which can be solved in principle by a polynomial time Interior Point (IP) algorithm. However, for large-scale classification problems,  IP methods become intractable and one has to resort to first-order gradient type methods. The strategy we use here is to reformulate the robust counterpart of the uncertain SVM problem as a saddle point problem and employ a special gradient scheme which works directly on the convex-concave saddle function. The algorithm is a simplified version of a general scheme due to Juditski and Nemirovski (2011). It achieves an <i>O(1/T<sup>2</sup>)</i> reduction of the initial error after <i>T</i> iterations. A comprehensive empirical study on both synthetic data and real-world protein structure data sets show that the proposed formulations achieve the desired robustness, and the saddle point based algorithm outperforms the IP method significantly.",
+    "authors": [
+        "Aharon Ben-Tal",
+        "Sahely Bhadra",
+        "Chiranjib Bhattacharyya",
+        "Arkadi Nemirovski"
+    ],
+    "id": "ben-tal12a",
+    "title": "Efficient Methods for Robust Classification Under Uncertainty in Kernel Matrices",
+    "volume": "13",
+    "year": "2012"
+}

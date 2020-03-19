@@ -1,0 +1,10 @@
+{
+    "abstract": "We present an open-source platform-independent C++ framework for machine learning and computer vision research. The framework includes a wide range of standard machine learning and graphical models algorithms as well as reference implementations for many machine learning and computer vision applications. The framework contains Matlab wrappers for core components of the library and an experimental graphical user interface for developing and visualizing machine learning data flows.",
+    "authors": [
+        "Stephen Gould"
+    ],
+    "id": "gould12a",
+    "title": "DARWIN: A Framework for Machine Learning and Computer Vision Research and Development",
+    "volume": "13",
+    "year": "2012"
+}

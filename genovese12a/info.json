@@ -1,0 +1,13 @@
+{
+    "abstract": "We find the minimax rate of convergence in Hausdorff distance for estimating a manifold <i>M</i> of dimension <i>d</i> embedded in <i>&#8477;<sup>D</sup></i> given a noisy sample from the manifold.  Under certain conditions, we show that the optimal rate of convergence is <i>n<sup>-2/(2+d)</sup></i>.  Thus, the minimax rate depends only on the dimension of the manifold, not on the dimension of the space in which <i>M</i> is embedded.",
+    "authors": [
+        "Christopher Genovese",
+        "Marco Perone-Pacifico",
+        "Isabella Verdinelli",
+        "Larry Wasserman"
+    ],
+    "id": "genovese12a",
+    "title": "Minimax Manifold Estimation",
+    "volume": "13",
+    "year": "2012"
+}

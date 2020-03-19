@@ -1,0 +1,12 @@
+{
+    "abstract": "When learning models that are represented in matrix forms, enforcing a low-rank constraint can dramatically improve the memory and run time complexity, while providing a natural regularization of the model. However, naive approaches to minimizing functions over the set of low-rank matrices are either prohibitively time consuming (repeated singular value decomposition of the matrix) or numerically unstable (optimizing a factored representation of the low-rank matrix). We build on recent advances in optimization over manifolds, and describe an iterative online learning procedure, consisting of a gradient step, followed by a <i>second-order retraction</i> back to the manifold. While the ideal retraction is costly to compute, and so is the projection operator that approximates it, we describe another retraction that can be computed efficiently. It has run time and memory complexity of <i>O ( (n+m)k )</i> for a rank-<i>k</i> matrix of dimension <i>m</i> X <i>n</i>, when using an online procedure with rank-one gradients. We use this algorithm, LORETA, to learn a matrix-form similarity measure over pairs of documents represented as high dimensional vectors. LORETA improves the mean average precision over a passive-aggressive approach in a factorized model, and also improves over a full model trained on pre-selected features using the same memory requirements. We further adapt LORETA to learn positive semi-definite low-rank matrices, providing an online algorithm for <i>low-rank metric learning</i>. LORETA also shows consistent improvement over standard weakly supervised methods in a large (1600 classes and 1 million images, using <i>ImageNet</i>) multi-label image classification task.",
+    "authors": [
+        "Uri Shalit",
+        "Daphna Weinshall",
+        "Gal Chechik"
+    ],
+    "id": "shalit12a",
+    "title": "Online Learning in the Embedded Manifold of Low-rank Matrices",
+    "volume": "13",
+    "year": "2012"
+}

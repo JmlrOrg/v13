@@ -1,0 +1,12 @@
+{
+    "abstract": "This paper presents the <i>Getting-started</i> style documentation for the local and parallel computation toolbox for Gaussian process regression (GPLP), an open source software package written in Matlab (but also compatible with Octave). The working environment and the usage of the software package will be presented in this paper.",
+    "authors": [
+        "Chiwoo Park",
+        "Jianhua Z. Huang",
+        "Yu Ding"
+    ],
+    "id": "park12a",
+    "title": "GPLP: A Local and Parallel Computation Toolbox for Gaussian Process Regression",
+    "volume": "13",
+    "year": "2012"
+}

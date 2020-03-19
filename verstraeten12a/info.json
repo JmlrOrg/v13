@@ -1,0 +1,15 @@
+{
+    "abstract": "Oger (OrGanic Environment for Reservoir computing) is a Python toolbox for building, training and evaluating modular learning architectures on large data sets. It builds on MDP for its modularity, and adds processing of sequential data sets, gradient descent training, several cross-validation schemes and parallel parameter optimization methods. Additionally, several learning algorithms are implemented, such as different reservoir implementations (both sigmoid and spiking), ridge regression, conditional restricted Boltzmann machine (CRBM) and others, including GPU accelerated versions. Oger is released under the GNU LGPL, and is available from http://organic.elis.ugent.be/oger.",
+    "authors": [
+        "David Verstraeten",
+        "Benjamin Schrauwen",
+        "Sander Dieleman",
+        "Philemon Brakel",
+        "Pieter Buteneers",
+        "Dejan Pecevski"
+    ],
+    "id": "verstraeten12a",
+    "title": "Oger: Modular Learning Architectures For Large-Scale Sequential Processing",
+    "volume": "13",
+    "year": "2012"
+}

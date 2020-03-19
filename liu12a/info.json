@@ -1,0 +1,12 @@
+{
+    "abstract": "We consider the following sparse signal recovery (or feature selection) problem: given a design matrix <i>X&#8712; &#8477;<sup>n&#10005; m</sup></i> <i>(m >> n)</i> and a noisy observation vector <i>y&#8712; &#8477;<sup>n</sup></i> satisfying <i>y=X&#946;<sup>*</sup>+&#949;</i> where <i>&#949;</i> is the noise vector following a Gaussian distribution <i>N(0,&#963;<sup>2</sup>I)</i>, how to recover the signal (or parameter vector) <i>&#946;<sup>*</sup></i> when the signal is sparse?  <br> The Dantzig selector has been proposed for sparse signal recovery with strong theoretical guarantees. In this paper, we propose a multi-stage Dantzig selector method, which iteratively refines the target signal <i>&#946;<sup>*</sup></i>. We show that if <i>X</i> obeys a certain condition, then with a large probability the difference between the solution <i>&#946;&#770;</i> estimated by the proposed method and the true solution <i>&#946;<sup>*</sup></i> measured in terms of the <i>l<sub>p</sub></i> norm (<i>p&#8805; 1</i>) is bounded as <br> ||&#946;&#770;-&#946;<sup>*</sup>||<sub>p</sub>&#8804; (C(s-N)<sup>1/p</sup>&#8730;log m+&#916;)&#963;, <br> where <i>C</i> is a constant, <i>s</i> is the number of nonzero entries in <i>&#946;<sup>*</sup></i>, the risk of the oracle estimator <i>&#916;</i> is independent of <i>m</i> and is much smaller than the first term, and <i>N</i> is the number of entries of <i>&#946;<sup>*</sup></i> larger than a certain value in the order of <i>O(&#963;&#8730;log m)</i>. The proposed method improves the estimation bound of the standard Dantzig selector approximately from <i>Cs<sup>1/p</sup>&#8730;log m&#963;</i> to <i>C(s-N)<sup>1/p</sup>&#8730;log m&#963;</i> where the value <i>N</i> depends on the number of large entries in <i>&#946;<sup>*</sup></i>. When <i>N=s</i>, the proposed algorithm achieves the oracle solution with a high probability, where the oracle solution is the projection of the observation vector <i>y</i> onto true features. In addition, with a large probability, the proposed method can select the same number of correct features under a milder condition than the Dantzig selector.  Finally, we extend this multi-stage procedure to the LASSO case.",
+    "authors": [
+        "Ji Liu",
+        "Peter Wonka",
+        "Jieping Ye"
+    ],
+    "id": "liu12a",
+    "title": "A Multi-Stage Framework for Dantzig Selector and LASSO",
+    "volume": "13",
+    "year": "2012"
+}

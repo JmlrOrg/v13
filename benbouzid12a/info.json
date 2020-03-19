@@ -1,0 +1,14 @@
+{
+    "abstract": "The MULTIBOOST package provides a fast C++ implementation of multi-class/multi-label/multi-task boosting algorithms. It is based on ADABOOST.MH but it also implements popular cascade classifiers and FILTERBOOST. The package contains common multi-class base learners (stumps, trees, products, Haar filters). Further base learners and strong learners following the boosting paradigm can be easily implemented in a flexible framework.",
+    "authors": [
+        "Djalel Benbouzid",
+        "R&#243;bert Busa-Fekete",
+        "Norman Casagrande",
+        "Fran&#231;ois-David Collin",
+        "Bal&#225;zs K&#233;gl"
+    ],
+    "id": "benbouzid12a",
+    "title": "MULTIBOOST: A Multi-purpose Boosting Package",
+    "volume": "13",
+    "year": "2012"
+}

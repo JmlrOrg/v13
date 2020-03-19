@@ -1,0 +1,12 @@
+{
+    "abstract": "In recent years there has been a lot of interest in designing principled classification algorithms over multiple cues, based on the intuitive notion that using more features should lead to better performance. In the domain of kernel methods, a principled way to use multiple features is the Multi Kernel Learning (MKL) approach.  <br> Here we present a MKL optimization algorithm based on stochastic gradient descent that has a guaranteed convergence rate. We directly solve the MKL problem in the primal formulation. By having a p-norm formulation of MKL, we introduce a parameter that controls the level of sparsity of the solution, while leading to an easier optimization problem.  We prove theoretically and experimentally that 1) our algorithm has a faster convergence rate as the number of kernels grows; 2) the training complexity is linear in the number of training examples; 3) very few iterations are sufficient to reach good solutions.  Experiments on standard benchmark databases support our claims.",
+    "authors": [
+        "Francesco Orabona",
+        "Luo Jie",
+        "Barbara Caputo"
+    ],
+    "id": "orabona12a",
+    "title": "Multi Kernel Learning with Online-Batch Optimization",
+    "volume": "13",
+    "year": "2012"
+}

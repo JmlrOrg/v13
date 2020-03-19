@@ -1,0 +1,12 @@
+{
+    "abstract": "The Nystr&#246;m method is an efficient technique to generate low-rank matrix approximations and is used in several large-scale learning applications.  A key aspect of this method is the procedure according to which columns are sampled from the original matrix.  In this work, we explore the efficacy of a variety of <i>fixed</i> and <i>adaptive</i> sampling schemes.  We also propose a family of <i>ensemble</i>-based sampling algorithms for the Nystr&#246;m method. We report results of extensive experiments that provide a detailed comparison of various fixed and adaptive sampling techniques, and demonstrate the performance improvement associated with the ensemble Nystr&#246;m method when used in conjunction with either fixed or adaptive sampling schemes.  Corroborating these empirical findings, we present a theoretical analysis of the Nystr&#246;m method, providing novel error bounds guaranteeing a better convergence rate of the ensemble Nystr&#246;m method in comparison to the standard Nystr&#246;m method.",
+    "authors": [
+        "Sanjiv Kumar",
+        "Mehryar Mohri",
+        "Ameet Talwalkar"
+    ],
+    "id": "kumar12a",
+    "title": "Sampling Methods for the Nystr&#246;m Method",
+    "volume": "13",
+    "year": "2012"
+}

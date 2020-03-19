@@ -1,0 +1,16 @@
+{
+    "abstract": "Classification algorithms are frequently used on data with a natural hierarchical structure. For instance, classifiers are often trained and tested on trial-wise measurements, separately for each subject within a group. One important question is how classification outcomes observed in individual subjects can be generalized to the population from which the group was sampled. To address this question, this paper introduces novel statistical models that are guided by three desiderata. First, all models explicitly respect the hierarchical nature of the data, that is, they are mixed-effects models that simultaneously account for within-subjects (fixed-effects) and across-subjects (random-effects) variance components. Second, maximum-likelihood estimation is replaced by full Bayesian inference in order to enable natural regularization of the estimation problem and to afford conclusions in terms of posterior probability statements. Third, inference on classification accuracy is complemented by inference on the balanced accuracy, which avoids inflated accuracy estimates for imbalanced data sets. We introduce hierarchical models that satisfy these criteria and demonstrate their advantages over conventional methods using MCMC implementations for model inversion and model selection on both synthetic and empirical data. We envisage that our approach will improve the sensitivity and validity of statistical inference in future hierarchical classification studies.",
+    "authors": [
+        "Kay H. Brodersen",
+        "Christoph Mathys",
+        "Justin R. Chumbley",
+        "Jean Daunizeau",
+        "Cheng Soon Ong",
+        "Joachim M. Buhmann",
+        "Klaas E. Stephan"
+    ],
+    "id": "brodersen12a",
+    "title": "Bayesian Mixed-Effects Inference on Classification Performance in Hierarchical Data Sets",
+    "volume": "13",
+    "year": "2012"
+}

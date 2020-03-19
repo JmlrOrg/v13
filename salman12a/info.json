@@ -1,0 +1,11 @@
+{
+    "abstract": "We describe a quantum algorithm for computing the intersection of two sets and its application to associative memory. The algorithm is based on a modification of Grover's quantum search algorithm (Grover, 1996). We present algorithms for pattern retrieval, pattern completion, and pattern correction. We show that the quantum associative memory can store an exponential number of memories and retrieve them in sub-exponential time. We prove that this model has advantages over known classical associative memories as well as previously proposed quantum models.",
+    "authors": [
+        "Tamer Salman",
+        "Yoram Baram"
+    ],
+    "id": "salman12a",
+    "title": "Quantum Set Intersection and its Application to Associative Memory",
+    "volume": "13",
+    "year": "2012"
+}

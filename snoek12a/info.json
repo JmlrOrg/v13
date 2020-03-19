@@ -1,0 +1,12 @@
+{
+    "abstract": "While unsupervised learning has long been useful for density modeling, exploratory data analysis and visualization, it has become increasingly important for discovering features that will later be used for discriminative tasks.  Discriminative algorithms often work best with highly-informative features; remarkably, such features can often be learned without the labels.  One particularly effective way to perform such unsupervised learning has been to use autoencoder neural networks, which find latent representations that are constrained but nevertheless informative for reconstruction.  However, <i>pure</i> unsupervised learning with autoencoders can find representations that may or may not be useful for the ultimate discriminative task.  It is a continuing challenge to guide the training of an autoencoder so that it finds features which will be useful for predicting labels.  Similarly, we often have <i>a priori</i> information regarding what statistical variation will be irrelevant to the ultimate discriminative task, and we would like to be able to use this for guidance as well.  Although a typical strategy would be to include a parametric discriminative model as part of the autoencoder training, here we propose a nonparametric approach that uses a Gaussian process to guide the representation.  By using a nonparametric model, we can ensure that a useful discriminative function exists for a given set of features, without explicitly instantiating it.  We demonstrate the superiority of this guidance mechanism on four data sets, including a real-world application to rehabilitation research.  We also show how our proposed approach can learn to explicitly ignore statistically significant covariate information that is label-irrelevant, by evaluating on the small NORB image recognition problem in which pose and lighting labels are available.",
+    "authors": [
+        "Jasper Snoek",
+        "Ryan P. Adams",
+        "Hugo Larochelle"
+    ],
+    "id": "snoek12a",
+    "title": "Nonparametric Guidance of Autoencoder Representations using Label Information",
+    "volume": "13",
+    "year": "2012"
+}

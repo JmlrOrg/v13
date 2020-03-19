@@ -1,0 +1,14 @@
+{
+    "abstract": "We describe an R package named  huge which provides easy-to-use functions for estimating high dimensional undirected graphs from data.  This package implements recent results in the literature, including Friedman et al. (2007), Liu et al. (2009, 2012) and Liu et al. (2010).   Compared with the existing graph estimation package glasso, the huge package provides extra features: (1) instead of using Fortan, it is written in C, which makes the code more portable and easier to modify; (2) besides fitting  Gaussian graphical models, it also provides functions for fitting high dimensional semiparametric Gaussian copula models; (3) more functions like data-dependent model selection, data generation and graph visualization; (4) a minor convergence problem of the graphical lasso algorithm is corrected; (5) the package allows the user to apply both lossless and lossy screening rules to scale up large-scale problems, making a tradeoff between computational and statistical efficiency.",
+    "authors": [
+        "Tuo Zhao",
+        "Han Liu",
+        "Kathryn Roeder",
+        "John Lafferty",
+        "Larry Wasserman"
+    ],
+    "id": "zhao12a",
+    "title": "The huge Package for High-dimensional Undirected Graph Estimation in R",
+    "volume": "13",
+    "year": "2012"
+}

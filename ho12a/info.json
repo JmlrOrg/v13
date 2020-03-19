@@ -1,0 +1,11 @@
+{
+    "abstract": "Support vector regression (SVR) and support vector classification (SVC) are popular learning techniques, but their use with kernels is often time consuming.  Recently, linear SVC without kernels has been shown to give competitive accuracy for some applications, but enjoys much faster training/testing.  However, few studies have focused on linear SVR.  In this paper, we extend state-of-the-art training methods for linear SVC to linear SVR.  We show that the extension is straightforward for some methods, but is not trivial for some others.  Our experiments demonstrate that for some problems, the proposed linear-SVR training methods can very efficiently produce models that are as good as kernel SVR.",
+    "authors": [
+        "Chia-Hua Ho",
+        "Chih-Jen Lin"
+    ],
+    "id": "ho12a",
+    "title": "Large-scale Linear Support Vector Regression",
+    "volume": "13",
+    "year": "2012"
+}

@@ -1,0 +1,14 @@
+{
+    "abstract": "DEAP is a novel evolutionary computation framework for rapid prototyping and testing of ideas. Its design departs from most other existing frameworks in that it seeks to make algorithms explicit and data structures transparent, as opposed to the more common black-box frameworks.  Freely available with extensive documentation at http://deap.gel.ulaval.ca, DEAP is an open source project under an LGPL license.",
+    "authors": [
+        "F&#233;lix-Antoine Fortin",
+        "Fran&#231;ois-Michel De Rainville",
+        "Marc-Andr&#233; Gardner",
+        "Marc Parizeau",
+        "Christian Gagn&#233;"
+    ],
+    "id": "fortin12a",
+    "title": "DEAP: Evolutionary Algorithms Made Easy",
+    "volume": "13",
+    "year": "2012"
+}

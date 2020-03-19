@@ -1,0 +1,13 @@
+{
+    "abstract": "High density clusters can be characterized by the connected components of a level set <i>L(&#955;) = {x: p(x)>&#955;}</i> of the underlying probability density function <i>p</i> generating the data, at some appropriate level <i>&#955; &#8805; 0</i>. The complete hierarchical clustering can be characterized by a cluster tree <i>T= &#8746;<sub>&#955;</sub>L(&#955;)</i>.  In this paper, we study the behavior of a density level set estimate  <i>L&#770;(&#955;)</i> and cluster tree estimate <i>T&#770;</i> based on a kernel density estimator with kernel bandwidth <i>h</i>. We define two notions of instability to measure the variability of <i>L&#770;(&#955;)</i> and <i>T&#770;</i> as a function of <i>h</i>, and investigate the theoretical properties of these instability measures.",
+    "authors": [
+        "Alessandro Rinaldo",
+        "Aarti Singh",
+        "Rebecca Nugent",
+        "Larry Wasserman"
+    ],
+    "id": "rinaldo12a",
+    "title": "Stability of Density-Based Clustering",
+    "volume": "13",
+    "year": "2012"
+}

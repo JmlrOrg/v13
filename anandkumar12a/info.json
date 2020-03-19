@@ -1,0 +1,13 @@
+{
+    "abstract": "We consider the problem of high-dimensional Gaussian graphical model selection. We  identify a set of graphs for which an efficient estimation algorithm exists, and this algorithm is  based on thresholding of  empirical conditional covariances. Under a set of transparent conditions, we establish structural consistency (or <i>sparsistency</i>) for the proposed algorithm, when the number of samples <i>n=&#937;(J<sub>min</sub><sup>-2</sup> log p)</i>, where <i>p</i> is the number of variables and <i>J<sub>min</sub></i> is the minimum (absolute) edge potential of the graphical model. The sufficient conditions for sparsistency are based on the notion of <i>walk-summability</i> of the model and the presence of sparse <i>local vertex separators</i> in the underlying graph. We also derive novel non-asymptotic  necessary conditions on the number of samples required  for sparsistency.",
+    "authors": [
+        "Animashree Anandkumar",
+        "Vincent Y.F. Tan",
+        "Furong Huang",
+        "Alan S. Willsky"
+    ],
+    "id": "anandkumar12a",
+    "title": "High-Dimensional Gaussian Graphical Model Selection: Walk Summability and Local Separation Criterion",
+    "volume": "13",
+    "year": "2012"
+}

@@ -1,0 +1,15 @@
+{
+    "abstract": "In this paper we introduce SVDFeature, a machine learning toolkit for feature-based collaborative filtering. SVDFeature is designed to efficiently solve the feature-based matrix factorization. The feature-based setting allows us to build factorization models incorporating side information such as temporal dynamics, neighborhood relationship, and hierarchical information.  The toolkit is capable of both rate prediction and collaborative ranking, and is carefully designed for efficient training on large-scale data set. Using this toolkit, we built solutions to win KDD Cup for two consecutive  years.",
+    "authors": [
+        "Tianqi Chen",
+        "Weinan Zhang",
+        "Qiuxia Lu",
+        "Kailong Chen",
+        "Zhao Zheng",
+        "Yong Yu"
+    ],
+    "id": "chen12a",
+    "title": "SVDFeature: A Toolkit for Feature-based Collaborative Filtering",
+    "volume": "13",
+    "year": "2012"
+}

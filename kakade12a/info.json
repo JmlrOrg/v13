@@ -1,0 +1,12 @@
+{
+    "abstract": "There is growing body of learning problems for which it is natural to organize the parameters into a matrix. As a result, it becomes easy to impose sophisticated prior knowledge by appropriately regularizing the parameters under some matrix norm.  This work describes and analyzes a systematic method for constructing such matrix-based regularization techniques.  In particular, we focus on how the underlying statistical properties of a given problem can help us decide which regularization function is appropriate.  <br> Our methodology is based on a known duality phenomenon: a function is strongly convex with respect to some norm if and only if its conjugate function is strongly smooth with respect to the dual norm. This result has already been found to be a key component in deriving and analyzing several learning algorithms.  We demonstrate the potential of this framework by deriving novel generalization and regret bounds for multi-task learning, multi-class learning, and multiple kernel learning.",
+    "authors": [
+        "Sham M. Kakade",
+        "Shai Shalev-Shwartz",
+        "Ambuj Tewari"
+    ],
+    "id": "kakade12a",
+    "title": "Regularization Techniques for Learning with Matrices",
+    "volume": "13",
+    "year": "2012"
+}

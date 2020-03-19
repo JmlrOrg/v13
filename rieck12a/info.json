@@ -1,0 +1,12 @@
+{
+    "abstract": "Strings and sequences are ubiquitous in many areas of data analysis. However, only few learning methods can be directly applied to this form of data.  We present Sally, a tool for embedding strings in vector spaces that allows for applying a wide range of learning methods to string data.  Sally implements a generalized form of the bag-of-words model, where strings are mapped to a vector space that is spanned by a set of string features, such as words or n-grams of words. The implementation of Sally builds on efficient string algorithms and enables processing millions of strings and features. The tool supports several data formats and is capable of interfacing with common learning environments, such as Weka, Shogun, Matlab, or Pylab. Sally has been successfully applied for learning with natural language text, DNA sequences and monitored program behavior.",
+    "authors": [
+        "Konrad Rieck",
+        "Christian Wressnegger",
+        "Alexander Bikadorov"
+    ],
+    "id": "rieck12a",
+    "title": "Sally: A Tool for Embedding Strings in Vector Spaces",
+    "volume": "13",
+    "year": "2012"
+}

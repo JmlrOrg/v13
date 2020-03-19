@@ -1,0 +1,11 @@
+{
+    "abstract": "We derive an upper bound on the local Rademacher complexity of <i><i>l</i><sub>p</sub></i>-norm multiple kernel learning, which yields a tighter excess risk bound than global approaches. Previous local approaches analyzed the case <i>p=1</i> only while our analysis covers all cases <i>1&#8804;p&#8804;&#8734;</i>, assuming the different feature mappings corresponding to the different kernels to be uncorrelated.  We also show a lower bound that shows that the bound is tight, and derive consequences regarding excess loss, namely fast convergence rates of the order <i>O(n<sup>-&#945;/1+&#945;</sup>)</i>, where <i>&#945;</i> is the minimum eigenvalue decay rate of the individual kernels.",
+    "authors": [
+        "Marius Kloft",
+        "Gilles Blanchard"
+    ],
+    "id": "kloft12a",
+    "title": "On the Convergence Rate of <i>l</i><sub>p</sub>-Norm Multiple Kernel Learning",
+    "volume": "13",
+    "year": "2012"
+}

@@ -1,0 +1,12 @@
+{
+    "abstract": "The standard assumption of identically distributed training and test data is violated when the test data are generated in response to the presence of a predictive model. This becomes apparent, for example, in the context of email spam filtering. Here, email service providers employ spam filters, and spam senders engineer campaign templates to achieve a high rate of successful deliveries despite the filters. We model the interaction between the learner and the data generator as a static game in which the cost functions of the learner and the data generator are not necessarily antagonistic. We identify conditions under which this prediction game has a unique Nash equilibrium and derive algorithms that find the equilibrial prediction model. We derive two instances, the Nash logistic regression and the Nash support vector machine, and empirically explore their properties in a case study on email spam filtering.",
+    "authors": [
+        "Michael Br&#252;ckner",
+        "Christian Kanzow",
+        "Tobias Scheffer"
+    ],
+    "id": "brueckner12a",
+    "title": "Static Prediction Games for Adversarial Learning Problems",
+    "volume": "13",
+    "year": "2012"
+}

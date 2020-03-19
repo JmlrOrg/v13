@@ -1,0 +1,11 @@
+{
+    "abstract": "Motivated by a need to classify high-dimensional, heterogeneous data from the bioinformatics domain, we developed ML-Flex, a machine-learning toolbox that enables users to perform two-class and multi-class classification analyses in a systematic yet flexible manner. ML-Flex was written in Java but is capable of interfacing with third-party packages written in other programming languages. It can handle multiple input-data formats and supports a variety of customizations. ML-Flex provides implementations of various validation strategies, which can be executed in parallel across multiple computing cores, processors, and nodes. Additionally, ML-Flex supports aggregating evidence across multiple algorithms and data sets via ensemble learning. This open-source software package is freely available from http://mlflex.sourceforge.net.",
+    "authors": [
+        "Stephen R. Piccolo",
+        "Lewis J. Frey"
+    ],
+    "id": "piccolo12a",
+    "title": "ML-Flex: A Flexible Toolbox for Performing Classification Analyses In Parallel",
+    "volume": "13",
+    "year": "2012"
+}

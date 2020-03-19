@@ -1,0 +1,12 @@
+{
+    "abstract": "Confidence-weighted online learning is a generalization of margin-based learning of linear classifiers in which the margin constraint is replaced by a probabilistic constraint based on a distribution over classifier weights that is updated online as examples are observed. The distribution captures a notion of confidence on classifier weights, and in some cases it can also be interpreted as replacing a single learning rate by adaptive per-weight rates. Confidence-weighted learning was motivated by the statistical properties of natural-language classification tasks, where most of the informative features are relatively rare.  We investigate several versions of confidence-weighted learning that use a Gaussian distribution over weight vectors, updated at each observed example to achieve high probability of correct classification for the example. Empirical evaluation on a range of text-categorization tasks show that our algorithms improve over other state-of-the-art online and batch methods, learn faster in the online setting, and lead to better classifier combination for a type of distributed training commonly used in cloud computing.",
+    "authors": [
+        "Koby Crammer",
+        "Mark Dredze",
+        "Fernando Pereira"
+    ],
+    "id": "crammer12a",
+    "title": "Confidence-Weighted Linear Classification for Text Categorization",
+    "volume": "13",
+    "year": "2012"
+}

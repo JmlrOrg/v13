@@ -1,0 +1,13 @@
+{
+    "abstract": "We consider a model for which it is important, early in processing, to estimate some variables with high precision, but perhaps at relatively low recall. If some variables can be identified with near certainty, they can be conditioned upon, allowing further inference to be done efficiently.  Specifically, we consider optical character recognition (OCR) systems that can be bootstrapped by identifying a subset of correctly translated document words with very high precision. This \"clean set\" is subsequently used as document-specific training data.  While OCR systems produce confidence measures for the identity of each letter or word, thresholding these values still produces a significant number of errors.\n<br>\nWe introduce a novel technique for identifying a set of correct words with very high precision. Rather than estimating posterior probabilities, we <b>bound</b> the probability that any given word is incorrect using an approximate worst case analysis.  We give empirical results on a data set of difficult historical newspaper scans, demonstrating that our method for identifying correct words makes only two errors in 56 documents.  Using document-specific character models generated from this data, we are able to reduce the error over properly segmented characters by 34.1% from an initial OCR system's translation.",
+    "authors": [
+        "Gary B. Huang",
+        "Andrew Kae",
+        "Carl Doersch",
+        "Erik Learned-Miller"
+    ],
+    "id": "huang12a",
+    "title": "Bounding the Probability of Error for High Precision Optical Character Recognition",
+    "volume": "13",
+    "year": "2012"
+}

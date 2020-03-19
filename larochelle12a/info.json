@@ -1,0 +1,13 @@
+{
+    "abstract": "Recent developments have demonstrated the capacity of restricted Boltzmann machines (RBM) to be powerful generative models, able to extract useful features from input data or construct deep artificial neural networks. In such settings, the RBM only yields a preprocessing or an initialization for some other model, instead of acting as a complete supervised model in its own right. In this paper, we argue that RBMs can provide a self-contained framework for developing competitive classifiers. We study the Classification RBM (ClassRBM), a variant on the RBM adapted to the classification setting. We study different strategies for training the ClassRBM and show that competitive classification performances can be reached when appropriately combining discriminative and generative training objectives. Since training according to the generative objective requires the computation of a generally intractable gradient, we also compare different approaches to estimating this gradient and address the issue of obtaining such a gradient for problems with very high dimensional inputs. Finally, we describe how to adapt the ClassRBM to two special cases of classification problems, namely semi-supervised and multitask learning.",
+    "authors": [
+        "Hugo Larochelle",
+        "Michael Mandel",
+        "Razvan Pascanu",
+        "Yoshua Bengio"
+    ],
+    "id": "larochelle12a",
+    "title": "Learning Algorithms for the Classification Restricted Boltzmann Machine",
+    "volume": "13",
+    "year": "2012"
+}

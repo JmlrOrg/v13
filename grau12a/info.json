@@ -1,0 +1,15 @@
+{
+    "abstract": "Jstacs is an object-oriented Java library for analysing and classifying sequence data, which emerged from the need for a standardized implementation of statistical models, learning principles, classifiers, and performance measures. In Jstacs, these components can be used, combined, and extended easily, which allows for a direct comparison of different approaches and fosters the development of new components.  Jstacs is especially tailored to biological sequence data, but is also applicable to general discrete and continuous data. Jstacs is freely available at http://www.jstacs.de under the GNU GPL license including an API documentation, a cookbook, and code examples.",
+    "authors": [
+        "Jan Grau",
+        "Jens Keilwagen",
+        "Andr&#233; Gohr",
+        "Berit Haldemann",
+        "Stefan Posch",
+        "Ivo Grosse"
+    ],
+    "id": "grau12a",
+    "title": "Jstacs: A Java Framework for Statistical Analysis and Classification of Biological Sequences",
+    "volume": "13",
+    "year": "2012"
+}

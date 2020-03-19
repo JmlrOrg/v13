@@ -1,0 +1,11 @@
+{
+    "abstract": "The main theme of this paper is to develop a novel eigenvalue optimization framework for learning a Mahalanobis metric.  Within this context, we introduce a novel metric learning approach called <i>DML-eig</i>  which is shown to be equivalent to  a well-known eigenvalue optimization problem called minimizing the maximal eigenvalue of a symmetric matrix (Overton, 1988; Lewis and Overton, 1996).  Moreover, we formulate <i>LMNN</i> (Weinberger et al., 2005), one of the state-of-the-art metric learning methods, as a similar eigenvalue optimization problem. This novel framework not only provides new insights into metric learning but also opens new avenues  to the design of efficient metric learning algorithms.   Indeed,  first-order algorithms are developed for DML-eig and LMNN which only need the computation of the largest eigenvector of a matrix per iteration. Their convergence characteristics are rigorously established.  Various experiments on benchmark data sets show the competitive performance  of our new approaches. In addition, we report an encouraging result on a difficult and challenging face verification data set called Labeled Faces in the Wild (LFW).",
+    "authors": [
+        "Yiming Ying",
+        "Peng Li"
+    ],
+    "id": "ying12a",
+    "title": "Distance Metric Learning with Eigenvalue Optimization",
+    "volume": "13",
+    "year": "2012"
+}

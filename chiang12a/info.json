@@ -1,0 +1,10 @@
+{
+    "abstract": "In machine translation, discriminative models have almost entirely supplanted the classical noisy-channel model, but are standardly trained using a method that is reliable only in low-dimensional spaces. Two strands of research have tried to adapt more scalable discriminative training methods to machine translation: the first uses log-linear probability models and either maximum likelihood or minimum risk, and the other uses linear models and large-margin methods. Here, we provide an overview of the latter. We compare several learning algorithms and describe in detail some novel extensions suited to properties of the translation task: no single correct output, a large space of structured outputs, and slow inference. We present experimental results on a large-scale Arabic-English translation task, demonstrating large gains in translation accuracy.",
+    "authors": [
+        "David Chiang"
+    ],
+    "id": "chiang12a",
+    "title": "Hope and Fear for Discriminative Training of Statistical Translation Models",
+    "volume": "13",
+    "year": "2012"
+}
