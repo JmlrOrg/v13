@@ -5,6 +5,11 @@
         "Aapo Hyv&#228;rinen"
     ],
     "id": "gutmann12a",
+    "issue": 10,
+    "pages": [
+        307,
+        361
+    ],
     "title": "Noise-Contrastive Estimation of Unnormalized Statistical Models, with Applications to Natural Image Statistics",
     "volume": "13",
     "year": "2012"

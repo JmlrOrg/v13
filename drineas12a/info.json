@@ -7,6 +7,11 @@
         "David P. Woodruff"
     ],
     "id": "drineas12a",
+    "issue": 110,
+    "pages": [
+        3475,
+        3506
+    ],
     "title": "Fast Approximation of Matrix Coherence and Statistical Leverage",
     "volume": "13",
     "year": "2012"

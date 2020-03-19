@@ -8,6 +8,11 @@
         "Alexander Smola"
     ],
     "id": "gretton12a",
+    "issue": 24,
+    "pages": [
+        723,
+        773
+    ],
     "title": "A Kernel Two-Sample Test",
     "volume": "13",
     "year": "2012"

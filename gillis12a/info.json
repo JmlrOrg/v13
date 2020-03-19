@@ -4,6 +4,11 @@
         "Nicolas Gillis"
     ],
     "id": "gillis12a",
+    "issue": 107,
+    "pages": [
+        3349,
+        3386
+    ],
     "title": "Sparse and Unique Nonnegative Matrix Factorization Through Data Preprocessing",
     "volume": "13",
     "year": "2012"

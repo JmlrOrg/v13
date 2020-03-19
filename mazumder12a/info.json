@@ -5,6 +5,11 @@
         "Trevor Hastie"
     ],
     "id": "mazumder12a",
+    "issue": 26,
+    "pages": [
+        781,
+        794
+    ],
     "title": "Exact Covariance Thresholding into Connected Components for Large-Scale Graphical Lasso",
     "volume": "13",
     "year": "2012"

@@ -6,6 +6,11 @@
         "Francis Bach"
     ],
     "id": "solnon12a",
+    "issue": 89,
+    "pages": [
+        2773,
+        2812
+    ],
     "title": "Multi-task Regression using Minimal Penalties",
     "volume": "13",
     "year": "2012"

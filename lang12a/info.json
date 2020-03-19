@@ -6,6 +6,11 @@
         "Kristian Kersting"
     ],
     "id": "lang12a",
+    "issue": 118,
+    "pages": [
+        3725,
+        3768
+    ],
     "title": "Exploration in Relational Domains for Model-based Reinforcement Learning",
     "volume": "13",
     "year": "2012"

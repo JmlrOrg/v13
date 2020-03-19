@@ -4,6 +4,11 @@
         "Stanislav Minsker"
     ],
     "id": "minsker12a",
+    "issue": 2,
+    "pages": [
+        67,
+        90
+    ],
     "title": "Plug-in Approach to Active Learning",
     "volume": "13",
     "year": "2012"

@@ -5,6 +5,11 @@
         "Pavel Laskov"
     ],
     "id": "kloft12b",
+    "issue": 117,
+    "pages": [
+        3681,
+        3724
+    ],
     "title": "Security Analysis of Online Centroid Anomaly Detection",
     "volume": "13",
     "year": "2012"

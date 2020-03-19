@@ -6,6 +6,11 @@
         "Ambuj Tewari"
     ],
     "id": "kakade12a",
+    "issue": 58,
+    "pages": [
+        1865,
+        1890
+    ],
     "title": "Regularization Techniques for Learning with Matrices",
     "volume": "13",
     "year": "2012"

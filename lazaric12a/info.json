@@ -6,6 +6,11 @@
         "R&#233;mi Munos"
     ],
     "id": "lazaric12a",
+    "issue": 97,
+    "pages": [
+        3041,
+        3074
+    ],
     "title": "Finite-Sample Analysis of Least-Squares Policy Iteration",
     "volume": "13",
     "year": "2012"

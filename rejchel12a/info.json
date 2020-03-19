@@ -4,6 +4,11 @@
         "Wojciech Rejchel"
     ],
     "id": "rejchel12a",
+    "issue": 45,
+    "pages": [
+        1373,
+        1392
+    ],
     "title": "On Ranking and Generalization Bounds",
     "volume": "13",
     "year": "2012"

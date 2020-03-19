@@ -5,6 +5,11 @@
         "Bla&#382; Zupan"
     ],
     "id": "zitnik12a",
+    "issue": 29,
+    "pages": [
+        849,
+        853
+    ],
     "title": "NIMFA : A Python Library for Nonnegative Matrix Factorization",
     "volume": "13",
     "year": "2012"

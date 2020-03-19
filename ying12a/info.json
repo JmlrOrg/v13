@@ -5,6 +5,11 @@
         "Peng Li"
     ],
     "id": "ying12a",
+    "issue": 0,
+    "pages": [
+        1,
+        26
+    ],
     "title": "Distance Metric Learning with Eigenvalue Optimization",
     "volume": "13",
     "year": "2012"

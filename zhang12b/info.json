@@ -7,6 +7,11 @@
         "Michael I. Jordan"
     ],
     "id": "zhang12b",
+    "issue": 64,
+    "pages": [
+        2031,
+        2061
+    ],
     "title": "EP-GIG Priors and Applications in Bayesian Sparse Learning",
     "volume": "13",
     "year": "2012"

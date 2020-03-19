@@ -8,6 +8,11 @@
         "Christian Gagn&#233;"
     ],
     "id": "fortin12a",
+    "issue": 69,
+    "pages": [
+        2171,
+        2175
+    ],
     "title": "DEAP: Evolutionary Algorithms Made Easy",
     "volume": "13",
     "year": "2012"

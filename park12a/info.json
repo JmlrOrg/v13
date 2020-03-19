@@ -6,6 +6,11 @@
         "Yu Ding"
     ],
     "id": "park12a",
+    "issue": 25,
+    "pages": [
+        775,
+        779
+    ],
     "title": "GPLP: A Local and Parallel Computation Toolbox for Gaussian Process Regression",
     "volume": "13",
     "year": "2012"

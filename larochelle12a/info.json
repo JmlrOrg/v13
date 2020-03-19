@@ -7,6 +7,11 @@
         "Yoshua Bengio"
     ],
     "id": "larochelle12a",
+    "issue": 21,
+    "pages": [
+        643,
+        669
+    ],
     "title": "Learning Algorithms for the Classification Restricted Boltzmann Machine",
     "volume": "13",
     "year": "2012"

@@ -4,6 +4,11 @@
         "Kian Ming A. Chai"
     ],
     "id": "chai12a",
+    "issue": 55,
+    "pages": [
+        1745,
+        1808
+    ],
     "title": "Variational Multinomial Logit Gaussian Process",
     "volume": "13",
     "year": "2012"

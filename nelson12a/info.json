@@ -10,6 +10,11 @@
         "J. D. Tygar"
     ],
     "id": "nelson12a",
+    "issue": 43,
+    "pages": [
+        1293,
+        1332
+    ],
     "title": "Query Strategies for Evading Convex-Inducing Classifiers",
     "volume": "13",
     "year": "2012"

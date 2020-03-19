@@ -7,6 +7,11 @@
         "Tapio Elomaa"
     ],
     "id": "aho12a",
+    "issue": 77,
+    "pages": [
+        2367,
+        2407
+    ],
     "title": "Multi-Target Regression with Rule Ensembles",
     "volume": "13",
     "year": "2012"

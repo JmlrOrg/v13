@@ -5,6 +5,11 @@
         "Walter Daelemans"
     ],
     "id": "desmedt12a",
+    "issue": 65,
+    "pages": [
+        2063,
+        2067
+    ],
     "title": "Pattern for Python",
     "volume": "13",
     "year": "2012"

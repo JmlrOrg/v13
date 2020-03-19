@@ -6,6 +6,11 @@
         "Jieping Ye"
     ],
     "id": "liu12a",
+    "issue": 40,
+    "pages": [
+        1189,
+        1219
+    ],
     "title": "A Multi-Stage Framework for Dantzig Selector and LASSO",
     "volume": "13",
     "year": "2012"

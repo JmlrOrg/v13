@@ -5,6 +5,11 @@
         "Martin J. Wainwright"
     ],
     "id": "negahban12a",
+    "issue": 52,
+    "pages": [
+        1665,
+        1697
+    ],
     "title": "Restricted Strong Convexity and Weighted Matrix Completion: Optimal Bounds with Noise",
     "volume": "13",
     "year": "2012"

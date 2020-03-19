@@ -6,6 +6,11 @@
         "Tianbao Yang"
     ],
     "id": "mahdavi12a",
+    "issue": 80,
+    "pages": [
+        2503,
+        2528
+    ],
     "title": "Trading Regret for Efficiency: Online Convex Optimization with Long Term Constraints",
     "volume": "13",
     "year": "2012"

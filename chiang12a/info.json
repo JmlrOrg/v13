@@ -4,6 +4,11 @@
         "David Chiang"
     ],
     "id": "chiang12a",
+    "issue": 39,
+    "pages": [
+        1159,
+        1187
+    ],
     "title": "Hope and Fear for Discriminative Training of Statistical Translation Models",
     "volume": "13",
     "year": "2012"

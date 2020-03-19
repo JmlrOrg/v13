@@ -6,6 +6,11 @@
         "Susan A. Murphy"
     ],
     "id": "lizotte12a",
+    "issue": 104,
+    "pages": [
+        3253,
+        3295
+    ],
     "title": "Linear Fitted-Q Iteration with Multiple Reward Functions",
     "volume": "13",
     "year": "2012"

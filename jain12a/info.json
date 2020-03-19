@@ -7,6 +7,11 @@
         "Inderjit S. Dhillon"
     ],
     "id": "jain12a",
+    "issue": 16,
+    "pages": [
+        519,
+        547
+    ],
     "title": "Metric and Kernel Learning Using a Linear Transformation",
     "volume": "13",
     "year": "2012"

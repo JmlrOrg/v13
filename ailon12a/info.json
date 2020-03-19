@@ -4,6 +4,11 @@
         "Nir Ailon"
     ],
     "id": "ailon12a",
+    "issue": 4,
+    "pages": [
+        137,
+        164
+    ],
     "title": "An Active Learning Algorithm for Ranking from Pairwise Preferences with an Almost Optimal Query Complexity",
     "volume": "13",
     "year": "2012"

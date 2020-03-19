@@ -6,6 +6,11 @@
         "Guy Lebanon"
     ],
     "id": "lee12b",
+    "issue": 86,
+    "pages": [
+        2699,
+        2703
+    ],
     "title": "PREA: Personalized Recommendation Algorithms Toolkit",
     "volume": "13",
     "year": "2012"

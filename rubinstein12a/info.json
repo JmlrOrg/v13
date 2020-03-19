@@ -5,6 +5,11 @@
         "J. Hyam Rubinstein"
     ],
     "id": "rubinstein12a",
+    "issue": 41,
+    "pages": [
+        1221,
+        1261
+    ],
     "title": "A Geometric Approach to Sample Compression",
     "volume": "13",
     "year": "2012"

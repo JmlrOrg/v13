@@ -6,6 +6,11 @@
         "Alexander Bikadorov"
     ],
     "id": "rieck12a",
+    "issue": 103,
+    "pages": [
+        3247,
+        3251
+    ],
     "title": "Sally: A Tool for Embedding Strings in Vector Spaces",
     "volume": "13",
     "year": "2012"

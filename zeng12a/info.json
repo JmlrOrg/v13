@@ -4,6 +4,11 @@
         "Jia Zeng"
     ],
     "id": "zeng12a",
+    "issue": 72,
+    "pages": [
+        2233,
+        2236
+    ],
     "title": "A Topic Modeling Toolbox Using Belief Propagation",
     "volume": "13",
     "year": "2012"

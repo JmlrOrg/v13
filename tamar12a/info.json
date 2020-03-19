@@ -6,6 +6,11 @@
         "Ron Meir"
     ],
     "id": "tamar12a",
+    "issue": 60,
+    "pages": [
+        1927,
+        1966
+    ],
     "title": "Integrating a Partial Model into Model Free Reinforcement Learning",
     "volume": "13",
     "year": "2012"

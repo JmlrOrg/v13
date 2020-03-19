@@ -7,6 +7,11 @@
         "Atif Tahir"
     ],
     "id": "yan12a",
+    "issue": 20,
+    "pages": [
+        607,
+        642
+    ],
     "title": "Non-Sparse Multiple Kernel Fisher Discriminant Analysis",
     "volume": "13",
     "year": "2012"

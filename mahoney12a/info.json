@@ -6,6 +6,11 @@
         "Nisheeth K. Vishnoi"
     ],
     "id": "mahoney12a",
+    "issue": 76,
+    "pages": [
+        2339,
+        2365
+    ],
     "title": "A Local Spectral Method for Graphs: With Applications to Improving Graph Partitions and Exploring Data Graphs Locally",
     "volume": "13",
     "year": "2012"

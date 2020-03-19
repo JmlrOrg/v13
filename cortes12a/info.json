@@ -6,6 +6,11 @@
         "Afshin Rostamizadeh"
     ],
     "id": "cortes12a",
+    "issue": 27,
+    "pages": [
+        795,
+        828
+    ],
     "title": "Algorithms for Learning Kernels Based on Centered Alignment",
     "volume": "13",
     "year": "2012"

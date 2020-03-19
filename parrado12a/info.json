@@ -7,6 +7,11 @@
         "Shiliang Sun"
     ],
     "id": "parrado12a",
+    "issue": 111,
+    "pages": [
+        3507,
+        3531
+    ],
     "title": "PAC-Bayes Bounds with Data Dependent Priors",
     "volume": "13",
     "year": "2012"

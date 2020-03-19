@@ -5,6 +5,11 @@
         "Yair Wiener"
     ],
     "id": "el-yaniv12a",
+    "issue": 8,
+    "pages": [
+        255,
+        279
+    ],
     "title": "Active Learning via Perfect Selective Classification",
     "volume": "13",
     "year": "2012"

@@ -7,6 +7,11 @@
         "Joachim M. Buhmann"
     ],
     "id": "frank12a",
+    "issue": 14,
+    "pages": [
+        459,
+        489
+    ],
     "title": "Multi-Assignment Clustering for Boolean Data",
     "volume": "13",
     "year": "2012"

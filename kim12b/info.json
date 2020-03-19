@@ -5,6 +5,11 @@
         "Clayton D. Scott"
     ],
     "id": "kim12b",
+    "issue": 81,
+    "pages": [
+        2529,
+        2565
+    ],
     "title": "Robust Kernel Density Estimation",
     "volume": "13",
     "year": "2012"

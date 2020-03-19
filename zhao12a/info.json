@@ -8,6 +8,11 @@
         "Larry Wasserman"
     ],
     "id": "zhao12a",
+    "issue": 36,
+    "pages": [
+        1059,
+        1062
+    ],
     "title": "The huge Package for High-dimensional Undirected Graph Estimation in R",
     "volume": "13",
     "year": "2012"

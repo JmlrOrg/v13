@@ -4,9 +4,14 @@
         "Gavin Brown",
         "Adam Pocock",
         "Ming-Jie Zhao",
-        "Mikel Luj&#225;n"
+        "Mikel Luj{{\\'a}}n"
     ],
     "id": "brown12a",
+    "issue": 1,
+    "pages": [
+        27,
+        66
+    ],
     "title": "Conditional Likelihood Maximisation: A Unifying Framework for Information Theoretic Feature Selection",
     "volume": "13",
     "year": "2012"

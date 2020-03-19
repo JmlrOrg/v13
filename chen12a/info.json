@@ -9,6 +9,11 @@
         "Yong Yu"
     ],
     "id": "chen12a",
+    "issue": 115,
+    "pages": [
+        3619,
+        3622
+    ],
     "title": "SVDFeature: A Toolkit for Feature-based Collaborative Filtering",
     "volume": "13",
     "year": "2012"

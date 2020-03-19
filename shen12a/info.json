@@ -7,6 +7,11 @@
         "Anton van den Hengel"
     ],
     "id": "shen12a",
+    "issue": 34,
+    "pages": [
+        1007,
+        1036
+    ],
     "title": "Positive Semidefinite Metric Learning Using Boosting-like Algorithms",
     "volume": "13",
     "year": "2012"

@@ -8,6 +8,11 @@
         "Karsten Borgwardt"
     ],
     "id": "song12a",
+    "issue": 46,
+    "pages": [
+        1393,
+        1434
+    ],
     "title": "Feature Selection via Dependence Maximization",
     "volume": "13",
     "year": "2012"

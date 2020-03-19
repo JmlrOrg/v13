@@ -7,6 +7,11 @@
         "David Forsyth"
     ],
     "id": "wang12a",
+    "issue": 98,
+    "pages": [
+        3075,
+        3102
+    ],
     "title": "Discriminative Hierarchical Part-based Models for Human Parsing and Action Recognition",
     "volume": "13",
     "year": "2012"

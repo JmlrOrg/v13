@@ -6,6 +6,11 @@
         "Eric P. Xing"
     ],
     "id": "zhu12a",
+    "issue": 73,
+    "pages": [
+        2237,
+        2278
+    ],
     "title": "MedLDA: Maximum Margin Supervised Topic Models",
     "volume": "13",
     "year": "2012"

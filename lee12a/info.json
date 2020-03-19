@@ -5,6 +5,11 @@
         "Stephen J. Wright"
     ],
     "id": "lee12a",
+    "issue": 54,
+    "pages": [
+        1705,
+        1744
+    ],
     "title": "Manifold Identification in Dual Averaging for Regularized Stochastic Online Learning",
     "volume": "13",
     "year": "2012"

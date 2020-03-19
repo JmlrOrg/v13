@@ -9,6 +9,11 @@
         "Ivo Grosse"
     ],
     "id": "grau12a",
+    "issue": 61,
+    "pages": [
+        1967,
+        1971
+    ],
     "title": "Jstacs: A Java Framework for Statistical Analysis and Classification of Biological Sequences",
     "volume": "13",
     "year": "2012"

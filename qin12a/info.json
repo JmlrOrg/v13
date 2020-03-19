@@ -5,6 +5,11 @@
         "Donald Goldfarb"
     ],
     "id": "qin12a",
+    "issue": 47,
+    "pages": [
+        1435,
+        1468
+    ],
     "title": "Structured Sparsity via Alternating Direction Methods",
     "volume": "13",
     "year": "2012"

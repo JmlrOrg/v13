@@ -6,6 +6,11 @@
         "Slobodan Vucetic"
     ],
     "id": "wang12b",
+    "issue": 99,
+    "pages": [
+        3103,
+        3131
+    ],
     "title": "Breaking the Curse of Kernelization: Budgeted Stochastic Gradient Descent for Large-Scale SVM Training",
     "volume": "13",
     "year": "2012"

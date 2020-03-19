@@ -7,6 +7,11 @@
         "Lin Xiao"
     ],
     "id": "dekel12a",
+    "issue": 5,
+    "pages": [
+        165,
+        202
+    ],
     "title": "Optimal Distributed Online Prediction Using Mini-Batches",
     "volume": "13",
     "year": "2012"

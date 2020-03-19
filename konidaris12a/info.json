@@ -6,6 +6,11 @@
         "Andrew Barto"
     ],
     "id": "konidaris12a",
+    "issue": 44,
+    "pages": [
+        1333,
+        1371
+    ],
     "title": "Transfer in Reinforcement Learning via Shared Features",
     "volume": "13",
     "year": "2012"

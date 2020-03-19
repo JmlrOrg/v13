@@ -6,6 +6,11 @@
         "Patrik O. Hoyer"
     ],
     "id": "hyttinen12a",
+    "issue": 108,
+    "pages": [
+        3387,
+        3439
+    ],
     "title": "Learning Linear Cyclic Causal Models with Latent Variables",
     "volume": "13",
     "year": "2012"

@@ -6,6 +6,11 @@
         "Bin Yu"
     ],
     "id": "raskutti12a",
+    "issue": 12,
+    "pages": [
+        389,
+        427
+    ],
     "title": "Minimax-Optimal Rates For Sparse Additive Models Over Kernel Classes Via Convex Programming",
     "volume": "13",
     "year": "2012"

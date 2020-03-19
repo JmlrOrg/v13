@@ -10,6 +10,11 @@
         "Klaas E. Stephan"
     ],
     "id": "brodersen12a",
+    "issue": 100,
+    "pages": [
+        3133,
+        3176
+    ],
     "title": "Bayesian Mixed-Effects Inference on Classification Performance in Hierarchical Data Sets",
     "volume": "13",
     "year": "2012"

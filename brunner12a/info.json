@@ -7,6 +7,11 @@
         "Thorsten Thies"
     ],
     "id": "brunner12a",
+    "issue": 74,
+    "pages": [
+        2279,
+        2292
+    ],
     "title": "Pairwise Support Vector Machines and their Application to Large Scale Problems",
     "volume": "13",
     "year": "2012"

@@ -5,6 +5,11 @@
         "Naftali Tishby"
     ],
     "id": "sabato12a",
+    "issue": 96,
+    "pages": [
+        2999,
+        3039
+    ],
     "title": "Multi-Instance Learning with Any Hypothesis Class",
     "volume": "13",
     "year": "2012"

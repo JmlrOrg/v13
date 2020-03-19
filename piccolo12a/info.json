@@ -5,6 +5,11 @@
         "Lewis J. Frey"
     ],
     "id": "piccolo12a",
+    "issue": 18,
+    "pages": [
+        555,
+        559
+    ],
     "title": "ML-Flex: A Flexible Toolbox for Performing Classification Analyses In Parallel",
     "volume": "13",
     "year": "2012"

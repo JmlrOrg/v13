@@ -6,6 +6,11 @@
         "Barbara Caputo"
     ],
     "id": "orabona12a",
+    "issue": 7,
+    "pages": [
+        227,
+        253
+    ],
     "title": "Multi Kernel Learning with Online-Batch Optimization",
     "volume": "13",
     "year": "2012"

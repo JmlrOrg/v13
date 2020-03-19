@@ -6,6 +6,11 @@
         "Hugo Larochelle"
     ],
     "id": "snoek12a",
+    "issue": 82,
+    "pages": [
+        2567,
+        2588
+    ],
     "title": "Nonparametric Guidance of Autoencoder Representations using Label Information",
     "volume": "13",
     "year": "2012"

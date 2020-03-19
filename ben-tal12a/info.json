@@ -7,6 +7,11 @@
         "Arkadi Nemirovski"
     ],
     "id": "ben-tal12a",
+    "issue": 93,
+    "pages": [
+        2923,
+        2954
+    ],
     "title": "Efficient Methods for Robust Classification Under Uncertainty in Kernel Matrices",
     "volume": "13",
     "year": "2012"

@@ -5,6 +5,11 @@
         "Yoshua Bengio"
     ],
     "id": "bergstra12a",
+    "issue": 9,
+    "pages": [
+        281,
+        305
+    ],
     "title": "Random Search for Hyper-Parameter Optimization",
     "volume": "13",
     "year": "2012"

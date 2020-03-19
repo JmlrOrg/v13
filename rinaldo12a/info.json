@@ -7,6 +7,11 @@
         "Larry Wasserman"
     ],
     "id": "rinaldo12a",
+    "issue": 31,
+    "pages": [
+        905,
+        948
+    ],
     "title": "Stability of Density-Based Clustering",
     "volume": "13",
     "year": "2012"

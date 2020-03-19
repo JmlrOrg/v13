@@ -5,6 +5,11 @@
         "Shipeng Yu"
     ],
     "id": "raykar12a",
+    "issue": 15,
+    "pages": [
+        491,
+        518
+    ],
     "title": "Eliminating Spammers and Ranking Annotators for Crowdsourced Labeling Tasks",
     "volume": "13",
     "year": "2012"

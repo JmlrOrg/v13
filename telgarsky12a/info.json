@@ -4,6 +4,11 @@
         "Matus Telgarsky"
     ],
     "id": "telgarsky12a",
+    "issue": 19,
+    "pages": [
+        561,
+        606
+    ],
     "title": "A Primal-Dual Convergence Analysis of Boosting",
     "volume": "13",
     "year": "2012"

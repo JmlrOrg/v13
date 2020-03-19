@@ -9,6 +9,11 @@
         "Dejan Pecevski"
     ],
     "id": "verstraeten12a",
+    "issue": 95,
+    "pages": [
+        2995,
+        2998
+    ],
     "title": "Oger: Modular Learning Architectures For Large-Scale Sequential Processing",
     "volume": "13",
     "year": "2012"

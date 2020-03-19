@@ -5,6 +5,11 @@
         "Peter B&#252;hlmann"
     ],
     "id": "hauser12a",
+    "issue": 78,
+    "pages": [
+        2409,
+        2464
+    ],
     "title": "Characterization and Greedy Learning of Interventional Markov Equivalence Classes of Directed Acyclic Graphs",
     "volume": "13",
     "year": "2012"

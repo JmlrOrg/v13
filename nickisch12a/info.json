@@ -4,6 +4,11 @@
         "Hannes Nickisch"
     ],
     "id": "nickisch12a",
+    "issue": 53,
+    "pages": [
+        1699,
+        1703
+    ],
     "title": "glm-ie: Generalised Linear Models Inference & Estimation Toolbox",
     "volume": "13",
     "year": "2012"

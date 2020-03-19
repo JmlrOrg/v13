@@ -5,6 +5,11 @@
         "Guido Sanguinetti"
     ],
     "id": "skolidis12a",
+    "issue": 23,
+    "pages": [
+        691,
+        721
+    ],
     "title": "A Case Study on Meta-Generalising: A Gaussian Processes Approach",
     "volume": "13",
     "year": "2012"

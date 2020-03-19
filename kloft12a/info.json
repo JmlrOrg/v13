@@ -5,6 +5,11 @@
         "Gilles Blanchard"
     ],
     "id": "kloft12a",
+    "issue": 79,
+    "pages": [
+        2465,
+        2502
+    ],
     "title": "On the Convergence Rate of <i>l</i><sub>p</sub>-Norm Multiple Kernel Learning",
     "volume": "13",
     "year": "2012"

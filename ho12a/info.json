@@ -5,6 +5,11 @@
         "Chih-Jen Lin"
     ],
     "id": "ho12a",
+    "issue": 106,
+    "pages": [
+        3323,
+        3348
+    ],
     "title": "Large-scale Linear Support Vector Regression",
     "volume": "13",
     "year": "2012"

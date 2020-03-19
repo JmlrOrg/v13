@@ -6,6 +6,11 @@
         "Yuval Shahar"
     ],
     "id": "tahan12a",
+    "issue": 32,
+    "pages": [
+        949,
+        979
+    ],
     "title": "Mal-ID: Automatic Malware Detection Using Common Segment Analysis and Meta-Features",
     "volume": "13",
     "year": "2012"

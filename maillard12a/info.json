@@ -5,6 +5,11 @@
         "R&#233;mi Munos"
     ],
     "id": "maillard12a",
+    "issue": 88,
+    "pages": [
+        2735,
+        2772
+    ],
     "title": "Linear Regression With Random Projections",
     "volume": "13",
     "year": "2012"
