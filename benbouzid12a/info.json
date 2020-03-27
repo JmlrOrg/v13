@@ -8,12 +8,16 @@
         "Bal{{\\'a}}zs K{{\\'e}}gl"
     ],
     "id": "benbouzid12a",
-    "issue": 17,
+    "issue": 18,
     "pages": [
         549,
         553
     ],
     "title": "MULTIBOOST: A Multi-purpose Boosting Package",
     "volume": "13",
-    "year": "2012"
+    "year": "2012",
+    "extra_links": [
+        ["code", "multiboost.org"]
+      ],
+    "special_issue": "MLOSS"
 }

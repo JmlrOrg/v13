@@ -2,11 +2,11 @@
     "abstract": "In this paper, we propose a novel policy iteration method, called dynamic policy programming (DPP), to estimate the optimal policy in the infinite-horizon Markov decision processes.  DPP is an incremental algorithm that forces a gradual change in policy update.  This allows us to prove finite-iteration and asymptotic  <i><i>l</i><sub>&#8734;</sub></i>-norm performance-loss bounds in the presence of approximation/estimation error which depend on the average accumulated error as opposed to the standard bounds which are expressed in terms of  the supremum of the errors.  The dependency on the average error is important in problems with limited number of samples per iteration, for which the average of the errors can be significantly smaller in size than the supremum of the errors. Based on these theoretical results, we prove that a sampling-based variant of DPP (DPP-RL) asymptotically converges to the optimal policy. Finally, we illustrate numerically the applicability of these results on some benchmark problems and compare the performance of the approximate variants of DPP with some existing reinforcement learning (RL) methods.",
     "authors": [
         "Mohammad Gheshlaghi Azar",
-        "Vicen&#231; G&#243;mez",
+        "Vicen{\\c{c}} G{{\\'o}}mez",
         "Hilbert J. Kappen"
     ],
     "id": "azar12a",
-    "issue": 102,
+    "issue": 103,
     "pages": [
         3207,
         3245

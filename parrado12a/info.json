@@ -1,13 +1,13 @@
 {
     "abstract": "This paper presents the prior PAC-Bayes bound and explores its capabilities as a tool to provide tight predictions of SVMs' generalization. The computation of the bound involves estimating a prior of the distribution of classifiers from the available data, and then manipulating this prior in the usual PAC-Bayes generalization bound. We explore two alternatives: to learn the prior from a separate data set, or to consider an expectation prior that does not need this separate data set. The prior PAC-Bayes bound motivates two SVM-like classification algorithms, prior SVM and <i>&#951;</i>-prior SVM, whose regularization term  pushes towards the minimization of the prior PAC-Bayes bound. The experimental work illustrates that the new bounds can be significantly tighter than the original PAC-Bayes bound when applied to SVMs, and among them the combination of the prior PAC-Bayes bound and the prior SVM algorithm gives the tightest bound.",
     "authors": [
-        "Emilio Parrado-Hern&#225;ndez",
+        "Emilio Parrado-Hern{{\\'a}}ndez",
         "Amiran Ambroladze",
         "John Shawe-Taylor",
         "Shiliang Sun"
     ],
     "id": "parrado12a",
-    "issue": 111,
+    "issue": 112,
     "pages": [
         3507,
         3531
