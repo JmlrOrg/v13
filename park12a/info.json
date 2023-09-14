@@ -13,5 +13,6 @@
     ],
     "title": "GPLP: A Local and Parallel Computation Toolbox for Gaussian Process Regression",
     "volume": "13",
-    "year": "2012"
+    "year": "2012",
+    "special_issue": "MLOSS"
 }
