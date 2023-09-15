@@ -16,5 +16,6 @@
     "title": "DEAP: Evolutionary Algorithms Made Easy",
     "volume": "13",
     "year": "2012",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://github.com/DEAP/deap"]]
 }

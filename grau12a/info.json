@@ -17,5 +17,6 @@
     "title": "Jstacs: A Java Framework for Statistical Analysis and Classification of Biological Sequences",
     "volume": "13",
     "year": "2012",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "http://www.jstacs.de"]]
 }

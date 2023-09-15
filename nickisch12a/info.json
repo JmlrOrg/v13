@@ -12,5 +12,6 @@
     "title": "glm-ie: Generalised Linear Models Inference & Estimation Toolbox",
     "volume": "13",
     "year": "2012",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://mloss.org/software/view/269/"]]
 }

@@ -14,5 +14,6 @@
     "title": "Sally: A Tool for Embedding Strings in Vector Spaces",
     "volume": "13",
     "year": "2012",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://github.com/rieck/sally"]]
 }

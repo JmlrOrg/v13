@@ -13,5 +13,6 @@
     "title": "NIMFA : A Python Library for Nonnegative Matrix Factorization",
     "volume": "13",
     "year": "2012",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://github.com/mims-harvard/nimfa"]]
 }

@@ -16,5 +16,6 @@
     "title": "The huge Package for High-dimensional Undirected Graph Estimation in R",
     "volume": "13",
     "year": "2012",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "https://cran.r-project.org/web/packages/huge/"]]
 }

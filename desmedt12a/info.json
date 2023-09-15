@@ -13,5 +13,6 @@
     "title": "Pattern for Python",
     "volume": "13",
     "year": "2012",
-    "special_issue": "MLOSS"
+    "special_issue": "MLOSS",
+    "extra_links": [["code", "http://www.clips.ua.ac.be/pages/pattern"]]
 }
